@@ -1,0 +1,15 @@
+{"branch": "stage1-step0-tokens0B", "tokens_b": 0, "gsm_loss": 11.944, "he_loss": 11.9186, "hs_acc": 0.246}
+{"branch": "stage1-step20000-tokens42B", "tokens_b": 42, "gsm_loss": 1.9936, "he_loss": 1.4181, "hs_acc": 0.424}
+{"branch": "stage1-step40000-tokens84B", "tokens_b": 84, "gsm_loss": 1.8657, "he_loss": 1.3073, "hs_acc": 0.462}
+{"branch": "stage1-step80000-tokens168B", "tokens_b": 168, "gsm_loss": 1.8899, "he_loss": 1.2202, "hs_acc": 0.496}
+{"branch": "stage1-step160000-tokens336B", "tokens_b": 336, "gsm_loss": 1.8271, "he_loss": 1.1339, "hs_acc": 0.494}
+{"branch": "stage1-step350000-tokens735B", "tokens_b": 735, "gsm_loss": 1.7077, "he_loss": 1.1453, "hs_acc": 0.504}
+{"branch": "stage1-step540000-tokens1133B", "tokens_b": 1133, "gsm_loss": 1.7359, "he_loss": 1.1386, "hs_acc": 0.514}
+{"branch": "stage1-step730000-tokens1531B", "tokens_b": 1531, "gsm_loss": 1.6685, "he_loss": 1.1085, "hs_acc": 0.498}
+{"branch": "stage1-step920000-tokens1930B", "tokens_b": 1930, "gsm_loss": 1.6519, "he_loss": 1.1031, "hs_acc": 0.518}
+{"branch": "stage1-step1110000-tokens2328B", "tokens_b": 2328, "gsm_loss": 1.709, "he_loss": 1.0675, "hs_acc": 0.514}
+{"branch": "stage1-step1300000-tokens2727B", "tokens_b": 2727, "gsm_loss": 1.6409, "he_loss": 1.0567, "hs_acc": 0.516}
+{"branch": "stage1-step1490000-tokens3125B", "tokens_b": 3125, "gsm_loss": 1.6158, "he_loss": 1.0204, "hs_acc": 0.526}
+{"branch": "stage1-step1680000-tokens3524B", "tokens_b": 3524, "gsm_loss": 1.62, "he_loss": 1.0273, "hs_acc": 0.526}
+{"branch": "stage1-step1870000-tokens3922B", "tokens_b": 3922, "gsm_loss": 1.6223, "he_loss": 1.0144, "hs_acc": 0.544}
+{"branch": "stage1-step1907359-tokens4001B", "tokens_b": 4001, "gsm_loss": 1.5937, "he_loss": 1.0168, "hs_acc": 0.55}
