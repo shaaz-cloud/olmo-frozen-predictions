@@ -43,4 +43,22 @@ story does not extend to the end of training. If 4-bit flattens or
 reverses the 8B's descent too, the miss is instrumental and line 3
 needs re-running, not reinterpreting. Result posted here either way.
 
-Raw per-item losses: pretrain_traj_apertus70b.jsonl (this repo).
+## Control result (added 2026-09-08, same day, as promised)
+The 8B re-measured under the 70B's exact instrument keeps its full
+bf16 shape: early dip +0.049 (bf16 +0.061), the 5014-6014B scar
++0.137 with paired z +5.6 (bf16 +0.262), back-loading 19.6% by
+7232B (bf16 27.0%), final descent -0.101 with z -3.7 (bf16 -0.348).
+Amplitudes attenuate under 4-bit; nothing changes sign. Over the
+decisive stretch (7232B to the final checkpoint) the 8B falls -0.56
+under this instrument while the 70B rises +0.74. The instrument
+does not manufacture the divergence: **the 70B's late rise stands
+as a property of the model.** Two models fed the same 15T tokens in
+the same order end the last half of training moving in opposite
+directions on the same probe. One caveat remains open and one test
+is queued: this control clears 4-bit loading of the 8B, not a
+70B-specific quantization interaction; an 8-bit re-measurement of
+three late 70B checkpoints will settle that, and its result will be
+added here either way.
+
+Raw per-item losses: pretrain_traj_apertus70b.jsonl and
+pretrain_traj_apertus8b4.jsonl (this repo).
