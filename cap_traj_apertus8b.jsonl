@@ -1,0 +1,15 @@
+{"branch": "step50000-tokens210B", "tokens_b": 210, "gsm_loss": 1.1726, "he_loss": 0.9117, "hs_acc": 0.548}
+{"branch": "step100000-tokens420B", "tokens_b": 420, "gsm_loss": 1.0875, "he_loss": 0.8299, "hs_acc": 0.566}
+{"branch": "step200000-tokens840B", "tokens_b": 840, "gsm_loss": 1.0503, "he_loss": 0.7738, "hs_acc": 0.572}
+{"branch": "step350000-tokens1470B", "tokens_b": 1470, "gsm_loss": 1.0561, "he_loss": 0.7805, "hs_acc": 0.592}
+{"branch": "step500000-tokens2100B", "tokens_b": 2100, "gsm_loss": 1.0297, "he_loss": 0.7876, "hs_acc": 0.606}
+{"branch": "step700000-tokens2940B", "tokens_b": 2940, "gsm_loss": 1.0318, "he_loss": 0.7679, "hs_acc": 0.612}
+{"branch": "step900000-tokens3780B", "tokens_b": 3780, "gsm_loss": 1.0086, "he_loss": 0.7626, "hs_acc": 0.6}
+{"branch": "step1194000-tokens5014B", "tokens_b": 5014, "gsm_loss": 1.041, "he_loss": 0.7665, "hs_acc": 0.592}
+{"branch": "step1432000-tokens6014B", "tokens_b": 6014, "gsm_loss": 1.0142, "he_loss": 0.7576, "hs_acc": 0.608}
+{"branch": "step1700000-tokens7232B", "tokens_b": 7232, "gsm_loss": 0.9609, "he_loss": 0.7234, "hs_acc": 0.604}
+{"branch": "step1850000-tokens8492B", "tokens_b": 8492, "gsm_loss": 0.9832, "he_loss": 0.7184, "hs_acc": 0.596}
+{"branch": "step2000000-tokens9752B", "tokens_b": 9752, "gsm_loss": 0.9533, "he_loss": 0.7122, "hs_acc": 0.614}
+{"branch": "step2200000-tokens11432B", "tokens_b": 11432, "gsm_loss": 0.9489, "he_loss": 0.7015, "hs_acc": 0.62}
+{"branch": "step2400000-tokens13112B", "tokens_b": 13112, "gsm_loss": 0.9761, "he_loss": 0.6548, "hs_acc": 0.624}
+{"branch": "step2600000-tokens14792B", "tokens_b": 14792, "gsm_loss": 0.9472, "he_loss": 0.5883, "hs_acc": 0.608}
