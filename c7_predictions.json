@@ -1,0 +1,4552 @@
+[
+{
+"fid": 0,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 1.397
+},
+{
+"fid": 0,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 0.26
+},
+{
+"fid": 0,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 0.89
+},
+{
+"fid": 1,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 1.397
+},
+{
+"fid": 1,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 0.26
+},
+{
+"fid": 1,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 0.89
+},
+{
+"fid": 2,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 1.467
+},
+{
+"fid": 2,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.273
+},
+{
+"fid": 2,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.934
+},
+{
+"fid": 3,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 6,
+"pred_entry_nats": 1.537
+},
+{
+"fid": 3,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 6,
+"pred_entry_nats": 0.286
+},
+{
+"fid": 3,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 6,
+"pred_entry_nats": 0.979
+},
+{
+"fid": 4,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 6,
+"pred_entry_nats": 1.537
+},
+{
+"fid": 4,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 6,
+"pred_entry_nats": 0.286
+},
+{
+"fid": 4,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 6,
+"pred_entry_nats": 0.979
+},
+{
+"fid": 5,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 6,
+"pred_entry_nats": 1.537
+},
+{
+"fid": 5,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 6,
+"pred_entry_nats": 0.286
+},
+{
+"fid": 5,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 6,
+"pred_entry_nats": 0.979
+},
+{
+"fid": 6,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 1.397
+},
+{
+"fid": 6,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 0.26
+},
+{
+"fid": 6,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 0.89
+},
+{
+"fid": 7,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 7,
+"pred_entry_nats": 1.607
+},
+{
+"fid": 7,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 7,
+"pred_entry_nats": 0.299
+},
+{
+"fid": 7,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 7,
+"pred_entry_nats": 1.023
+},
+{
+"fid": 8,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 1.397
+},
+{
+"fid": 8,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 0.26
+},
+{
+"fid": 8,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 0.89
+},
+{
+"fid": 9,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 1.467
+},
+{
+"fid": 9,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.273
+},
+{
+"fid": 9,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.934
+},
+{
+"fid": 10,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 6,
+"pred_entry_nats": 1.537
+},
+{
+"fid": 10,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 6,
+"pred_entry_nats": 0.286
+},
+{
+"fid": 10,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 6,
+"pred_entry_nats": 0.979
+},
+{
+"fid": 11,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 1.467
+},
+{
+"fid": 11,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.273
+},
+{
+"fid": 11,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.934
+},
+{
+"fid": 12,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 1.397
+},
+{
+"fid": 12,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 0.26
+},
+{
+"fid": 12,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 0.89
+},
+{
+"fid": 13,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 1.467
+},
+{
+"fid": 13,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.273
+},
+{
+"fid": 13,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.934
+},
+{
+"fid": 14,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 1.467
+},
+{
+"fid": 14,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.273
+},
+{
+"fid": 14,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.934
+},
+{
+"fid": 15,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 1.467
+},
+{
+"fid": 15,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.273
+},
+{
+"fid": 15,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.934
+},
+{
+"fid": 16,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 1.467
+},
+{
+"fid": 16,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.273
+},
+{
+"fid": 16,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.934
+},
+{
+"fid": 17,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 1.467
+},
+{
+"fid": 17,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.273
+},
+{
+"fid": 17,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.934
+},
+{
+"fid": 18,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 1.467
+},
+{
+"fid": 18,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.273
+},
+{
+"fid": 18,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.934
+},
+{
+"fid": 19,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 1.467
+},
+{
+"fid": 19,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.273
+},
+{
+"fid": 19,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.934
+},
+{
+"fid": 20,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 1.397
+},
+{
+"fid": 20,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 0.26
+},
+{
+"fid": 20,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 0.89
+},
+{
+"fid": 21,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 6,
+"pred_entry_nats": 1.537
+},
+{
+"fid": 21,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 6,
+"pred_entry_nats": 0.286
+},
+{
+"fid": 21,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 6,
+"pred_entry_nats": 0.979
+},
+{
+"fid": 22,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 1.467
+},
+{
+"fid": 22,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.273
+},
+{
+"fid": 22,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.934
+},
+{
+"fid": 23,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 6,
+"pred_entry_nats": 1.537
+},
+{
+"fid": 23,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 6,
+"pred_entry_nats": 0.286
+},
+{
+"fid": 23,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 6,
+"pred_entry_nats": 0.979
+},
+{
+"fid": 24,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 6,
+"pred_entry_nats": 1.537
+},
+{
+"fid": 24,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 6,
+"pred_entry_nats": 0.286
+},
+{
+"fid": 24,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 6,
+"pred_entry_nats": 0.979
+},
+{
+"fid": 25,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 1.467
+},
+{
+"fid": 25,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.273
+},
+{
+"fid": 25,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.934
+},
+{
+"fid": 26,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 6,
+"pred_entry_nats": 1.537
+},
+{
+"fid": 26,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 6,
+"pred_entry_nats": 0.286
+},
+{
+"fid": 26,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 6,
+"pred_entry_nats": 0.979
+},
+{
+"fid": 27,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 1.467
+},
+{
+"fid": 27,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.273
+},
+{
+"fid": 27,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.934
+},
+{
+"fid": 28,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 1.467
+},
+{
+"fid": 28,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.273
+},
+{
+"fid": 28,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.934
+},
+{
+"fid": 29,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 6,
+"pred_entry_nats": 1.537
+},
+{
+"fid": 29,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 6,
+"pred_entry_nats": 0.286
+},
+{
+"fid": 29,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 6,
+"pred_entry_nats": 0.979
+},
+{
+"fid": 30,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 1.467
+},
+{
+"fid": 30,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.273
+},
+{
+"fid": 30,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.934
+},
+{
+"fid": 31,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 1.467
+},
+{
+"fid": 31,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.273
+},
+{
+"fid": 31,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.934
+},
+{
+"fid": 32,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 1.397
+},
+{
+"fid": 32,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 0.26
+},
+{
+"fid": 32,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 0.89
+},
+{
+"fid": 33,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 1.397
+},
+{
+"fid": 33,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 0.26
+},
+{
+"fid": 33,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 0.89
+},
+{
+"fid": 34,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 1.467
+},
+{
+"fid": 34,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.273
+},
+{
+"fid": 34,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.934
+},
+{
+"fid": 35,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 1.397
+},
+{
+"fid": 35,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 0.26
+},
+{
+"fid": 35,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 0.89
+},
+{
+"fid": 36,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 1.397
+},
+{
+"fid": 36,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 0.26
+},
+{
+"fid": 36,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 0.89
+},
+{
+"fid": 37,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 6,
+"pred_entry_nats": 1.537
+},
+{
+"fid": 37,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 6,
+"pred_entry_nats": 0.286
+},
+{
+"fid": 37,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 6,
+"pred_entry_nats": 0.979
+},
+{
+"fid": 38,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 1.397
+},
+{
+"fid": 38,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 0.26
+},
+{
+"fid": 38,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 0.89
+},
+{
+"fid": 39,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 1.467
+},
+{
+"fid": 39,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.273
+},
+{
+"fid": 39,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.934
+},
+{
+"fid": 40,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 1.467
+},
+{
+"fid": 40,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.273
+},
+{
+"fid": 40,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.934
+},
+{
+"fid": 41,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 1.467
+},
+{
+"fid": 41,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.273
+},
+{
+"fid": 41,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.934
+},
+{
+"fid": 42,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 1.467
+},
+{
+"fid": 42,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.273
+},
+{
+"fid": 42,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.934
+},
+{
+"fid": 43,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 6,
+"pred_entry_nats": 1.537
+},
+{
+"fid": 43,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 6,
+"pred_entry_nats": 0.286
+},
+{
+"fid": 43,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 6,
+"pred_entry_nats": 0.979
+},
+{
+"fid": 44,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 6,
+"pred_entry_nats": 1.537
+},
+{
+"fid": 44,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 6,
+"pred_entry_nats": 0.286
+},
+{
+"fid": 44,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 6,
+"pred_entry_nats": 0.979
+},
+{
+"fid": 45,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 6,
+"pred_entry_nats": 1.537
+},
+{
+"fid": 45,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 6,
+"pred_entry_nats": 0.286
+},
+{
+"fid": 45,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 6,
+"pred_entry_nats": 0.979
+},
+{
+"fid": 46,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 1.467
+},
+{
+"fid": 46,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.273
+},
+{
+"fid": 46,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.934
+},
+{
+"fid": 47,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 1.397
+},
+{
+"fid": 47,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 0.26
+},
+{
+"fid": 47,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 0.89
+},
+{
+"fid": 48,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 6,
+"pred_entry_nats": 1.537
+},
+{
+"fid": 48,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 6,
+"pred_entry_nats": 0.286
+},
+{
+"fid": 48,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 6,
+"pred_entry_nats": 0.979
+},
+{
+"fid": 49,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 6,
+"pred_entry_nats": 1.537
+},
+{
+"fid": 49,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 6,
+"pred_entry_nats": 0.286
+},
+{
+"fid": 49,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 6,
+"pred_entry_nats": 0.979
+},
+{
+"fid": 50,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 6,
+"pred_entry_nats": 1.537
+},
+{
+"fid": 50,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 6,
+"pred_entry_nats": 0.286
+},
+{
+"fid": 50,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 6,
+"pred_entry_nats": 0.979
+},
+{
+"fid": 51,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 1.397
+},
+{
+"fid": 51,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 0.26
+},
+{
+"fid": 51,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 0.89
+},
+{
+"fid": 52,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 1.397
+},
+{
+"fid": 52,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 0.26
+},
+{
+"fid": 52,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 0.89
+},
+{
+"fid": 53,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 1.467
+},
+{
+"fid": 53,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.273
+},
+{
+"fid": 53,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.934
+},
+{
+"fid": 54,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 1.467
+},
+{
+"fid": 54,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.273
+},
+{
+"fid": 54,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.934
+},
+{
+"fid": 55,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 1.467
+},
+{
+"fid": 55,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.273
+},
+{
+"fid": 55,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.934
+},
+{
+"fid": 56,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 1.397
+},
+{
+"fid": 56,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 0.26
+},
+{
+"fid": 56,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 0.89
+},
+{
+"fid": 57,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 1.467
+},
+{
+"fid": 57,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.273
+},
+{
+"fid": 57,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.934
+},
+{
+"fid": 58,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 1.467
+},
+{
+"fid": 58,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.273
+},
+{
+"fid": 58,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.934
+},
+{
+"fid": 59,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 6,
+"pred_entry_nats": 1.537
+},
+{
+"fid": 59,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 6,
+"pred_entry_nats": 0.286
+},
+{
+"fid": 59,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 6,
+"pred_entry_nats": 0.979
+},
+{
+"fid": 60,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 1.397
+},
+{
+"fid": 60,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 0.26
+},
+{
+"fid": 60,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 0.89
+},
+{
+"fid": 61,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 1.397
+},
+{
+"fid": 61,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 0.26
+},
+{
+"fid": 61,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 0.89
+},
+{
+"fid": 62,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 1.467
+},
+{
+"fid": 62,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.273
+},
+{
+"fid": 62,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.934
+},
+{
+"fid": 63,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 7,
+"pred_entry_nats": 1.607
+},
+{
+"fid": 63,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 7,
+"pred_entry_nats": 0.299
+},
+{
+"fid": 63,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 7,
+"pred_entry_nats": 1.023
+},
+{
+"fid": 64,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 1.467
+},
+{
+"fid": 64,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.273
+},
+{
+"fid": 64,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.934
+},
+{
+"fid": 65,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 1.397
+},
+{
+"fid": 65,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 0.26
+},
+{
+"fid": 65,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 0.89
+},
+{
+"fid": 66,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 6,
+"pred_entry_nats": 1.537
+},
+{
+"fid": 66,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 6,
+"pred_entry_nats": 0.286
+},
+{
+"fid": 66,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 6,
+"pred_entry_nats": 0.979
+},
+{
+"fid": 67,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 1.467
+},
+{
+"fid": 67,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.273
+},
+{
+"fid": 67,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.934
+},
+{
+"fid": 68,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 1.397
+},
+{
+"fid": 68,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 0.26
+},
+{
+"fid": 68,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 0.89
+},
+{
+"fid": 69,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 1.467
+},
+{
+"fid": 69,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.273
+},
+{
+"fid": 69,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.934
+},
+{
+"fid": 70,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 1.397
+},
+{
+"fid": 70,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 0.26
+},
+{
+"fid": 70,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 0.89
+},
+{
+"fid": 71,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 1.467
+},
+{
+"fid": 71,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.273
+},
+{
+"fid": 71,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.934
+},
+{
+"fid": 72,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 1.397
+},
+{
+"fid": 72,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 0.26
+},
+{
+"fid": 72,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 0.89
+},
+{
+"fid": 73,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 1.467
+},
+{
+"fid": 73,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.273
+},
+{
+"fid": 73,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.934
+},
+{
+"fid": 74,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 1.467
+},
+{
+"fid": 74,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.273
+},
+{
+"fid": 74,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.934
+},
+{
+"fid": 75,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 1.397
+},
+{
+"fid": 75,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 0.26
+},
+{
+"fid": 75,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 0.89
+},
+{
+"fid": 76,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 1.397
+},
+{
+"fid": 76,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 0.26
+},
+{
+"fid": 76,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 0.89
+},
+{
+"fid": 77,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 1.467
+},
+{
+"fid": 77,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.273
+},
+{
+"fid": 77,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.934
+},
+{
+"fid": 78,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 1.467
+},
+{
+"fid": 78,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.273
+},
+{
+"fid": 78,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.934
+},
+{
+"fid": 79,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 1.397
+},
+{
+"fid": 79,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 0.26
+},
+{
+"fid": 79,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 0.89
+},
+{
+"fid": 80,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 6,
+"pred_entry_nats": 1.537
+},
+{
+"fid": 80,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 6,
+"pred_entry_nats": 0.286
+},
+{
+"fid": 80,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 6,
+"pred_entry_nats": 0.979
+},
+{
+"fid": 81,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 1.467
+},
+{
+"fid": 81,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.273
+},
+{
+"fid": 81,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.934
+},
+{
+"fid": 82,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 1.397
+},
+{
+"fid": 82,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 0.26
+},
+{
+"fid": 82,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 0.89
+},
+{
+"fid": 83,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 1.467
+},
+{
+"fid": 83,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.273
+},
+{
+"fid": 83,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.934
+},
+{
+"fid": 84,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 6,
+"pred_entry_nats": 1.537
+},
+{
+"fid": 84,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 6,
+"pred_entry_nats": 0.286
+},
+{
+"fid": 84,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 6,
+"pred_entry_nats": 0.979
+},
+{
+"fid": 85,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 1.397
+},
+{
+"fid": 85,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 0.26
+},
+{
+"fid": 85,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 0.89
+},
+{
+"fid": 86,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 1.467
+},
+{
+"fid": 86,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.273
+},
+{
+"fid": 86,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.934
+},
+{
+"fid": 87,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 1.467
+},
+{
+"fid": 87,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.273
+},
+{
+"fid": 87,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.934
+},
+{
+"fid": 88,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 6,
+"pred_entry_nats": 1.537
+},
+{
+"fid": 88,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 6,
+"pred_entry_nats": 0.286
+},
+{
+"fid": 88,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 6,
+"pred_entry_nats": 0.979
+},
+{
+"fid": 89,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 1.467
+},
+{
+"fid": 89,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.273
+},
+{
+"fid": 89,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.934
+},
+{
+"fid": 90,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 1.467
+},
+{
+"fid": 90,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.273
+},
+{
+"fid": 90,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.934
+},
+{
+"fid": 91,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 1.467
+},
+{
+"fid": 91,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.273
+},
+{
+"fid": 91,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.934
+},
+{
+"fid": 92,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 1.467
+},
+{
+"fid": 92,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.273
+},
+{
+"fid": 92,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.934
+},
+{
+"fid": 93,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 1.397
+},
+{
+"fid": 93,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 0.26
+},
+{
+"fid": 93,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 0.89
+},
+{
+"fid": 94,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 1.467
+},
+{
+"fid": 94,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.273
+},
+{
+"fid": 94,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.934
+},
+{
+"fid": 95,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 1.467
+},
+{
+"fid": 95,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.273
+},
+{
+"fid": 95,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.934
+},
+{
+"fid": 96,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 6,
+"pred_entry_nats": 1.537
+},
+{
+"fid": 96,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 6,
+"pred_entry_nats": 0.286
+},
+{
+"fid": 96,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 6,
+"pred_entry_nats": 0.979
+},
+{
+"fid": 97,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 1.397
+},
+{
+"fid": 97,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 0.26
+},
+{
+"fid": 97,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 0.89
+},
+{
+"fid": 98,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 1.467
+},
+{
+"fid": 98,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.273
+},
+{
+"fid": 98,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.934
+},
+{
+"fid": 99,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 1.467
+},
+{
+"fid": 99,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.273
+},
+{
+"fid": 99,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.934
+},
+{
+"fid": 100,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 1.397
+},
+{
+"fid": 100,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 0.26
+},
+{
+"fid": 100,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 0.89
+},
+{
+"fid": 101,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 1.467
+},
+{
+"fid": 101,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.273
+},
+{
+"fid": 101,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.934
+},
+{
+"fid": 102,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 1.397
+},
+{
+"fid": 102,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 0.26
+},
+{
+"fid": 102,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 0.89
+},
+{
+"fid": 103,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 1.467
+},
+{
+"fid": 103,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.273
+},
+{
+"fid": 103,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.934
+},
+{
+"fid": 104,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 1.397
+},
+{
+"fid": 104,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 0.26
+},
+{
+"fid": 104,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 0.89
+},
+{
+"fid": 105,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 1.467
+},
+{
+"fid": 105,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.273
+},
+{
+"fid": 105,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.934
+},
+{
+"fid": 106,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 1.397
+},
+{
+"fid": 106,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 0.26
+},
+{
+"fid": 106,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 0.89
+},
+{
+"fid": 107,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 1.467
+},
+{
+"fid": 107,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.273
+},
+{
+"fid": 107,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.934
+},
+{
+"fid": 108,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 1.397
+},
+{
+"fid": 108,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 0.26
+},
+{
+"fid": 108,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 0.89
+},
+{
+"fid": 109,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 1.467
+},
+{
+"fid": 109,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.273
+},
+{
+"fid": 109,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.934
+},
+{
+"fid": 110,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 6,
+"pred_entry_nats": 1.537
+},
+{
+"fid": 110,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 6,
+"pred_entry_nats": 0.286
+},
+{
+"fid": 110,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 6,
+"pred_entry_nats": 0.979
+},
+{
+"fid": 111,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 1.397
+},
+{
+"fid": 111,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 0.26
+},
+{
+"fid": 111,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 0.89
+},
+{
+"fid": 112,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 6,
+"pred_entry_nats": 1.537
+},
+{
+"fid": 112,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 6,
+"pred_entry_nats": 0.286
+},
+{
+"fid": 112,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 6,
+"pred_entry_nats": 0.979
+},
+{
+"fid": 113,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 1.467
+},
+{
+"fid": 113,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.273
+},
+{
+"fid": 113,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.934
+},
+{
+"fid": 114,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 1.397
+},
+{
+"fid": 114,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 0.26
+},
+{
+"fid": 114,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 0.89
+},
+{
+"fid": 115,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 1.397
+},
+{
+"fid": 115,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 0.26
+},
+{
+"fid": 115,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 0.89
+},
+{
+"fid": 116,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 1.397
+},
+{
+"fid": 116,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 0.26
+},
+{
+"fid": 116,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 0.89
+},
+{
+"fid": 117,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 1.397
+},
+{
+"fid": 117,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 0.26
+},
+{
+"fid": 117,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 0.89
+},
+{
+"fid": 118,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 6,
+"pred_entry_nats": 1.537
+},
+{
+"fid": 118,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 6,
+"pred_entry_nats": 0.286
+},
+{
+"fid": 118,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 6,
+"pred_entry_nats": 0.979
+},
+{
+"fid": 119,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 1.397
+},
+{
+"fid": 119,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 0.26
+},
+{
+"fid": 119,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 0.89
+},
+{
+"fid": 120,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 1.467
+},
+{
+"fid": 120,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.273
+},
+{
+"fid": 120,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.934
+},
+{
+"fid": 121,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 1.467
+},
+{
+"fid": 121,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.273
+},
+{
+"fid": 121,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.934
+},
+{
+"fid": 122,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 6,
+"pred_entry_nats": 1.537
+},
+{
+"fid": 122,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 6,
+"pred_entry_nats": 0.286
+},
+{
+"fid": 122,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 6,
+"pred_entry_nats": 0.979
+},
+{
+"fid": 123,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 1.467
+},
+{
+"fid": 123,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.273
+},
+{
+"fid": 123,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.934
+},
+{
+"fid": 124,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 1.467
+},
+{
+"fid": 124,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.273
+},
+{
+"fid": 124,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.934
+},
+{
+"fid": 125,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 1.467
+},
+{
+"fid": 125,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.273
+},
+{
+"fid": 125,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.934
+},
+{
+"fid": 126,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 1.397
+},
+{
+"fid": 126,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 0.26
+},
+{
+"fid": 126,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 0.89
+},
+{
+"fid": 127,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 1.397
+},
+{
+"fid": 127,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 0.26
+},
+{
+"fid": 127,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 0.89
+},
+{
+"fid": 128,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 6,
+"pred_entry_nats": 1.537
+},
+{
+"fid": 128,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 6,
+"pred_entry_nats": 0.286
+},
+{
+"fid": 128,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 6,
+"pred_entry_nats": 0.979
+},
+{
+"fid": 129,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 1.467
+},
+{
+"fid": 129,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.273
+},
+{
+"fid": 129,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.934
+},
+{
+"fid": 130,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 1.467
+},
+{
+"fid": 130,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.273
+},
+{
+"fid": 130,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.934
+},
+{
+"fid": 131,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 1.467
+},
+{
+"fid": 131,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.273
+},
+{
+"fid": 131,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.934
+},
+{
+"fid": 132,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 1.397
+},
+{
+"fid": 132,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 0.26
+},
+{
+"fid": 132,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 0.89
+},
+{
+"fid": 133,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 1.467
+},
+{
+"fid": 133,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.273
+},
+{
+"fid": 133,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.934
+},
+{
+"fid": 134,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 1.397
+},
+{
+"fid": 134,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 0.26
+},
+{
+"fid": 134,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 0.89
+},
+{
+"fid": 135,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 1.397
+},
+{
+"fid": 135,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 0.26
+},
+{
+"fid": 135,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 0.89
+},
+{
+"fid": 136,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 1.397
+},
+{
+"fid": 136,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 0.26
+},
+{
+"fid": 136,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 0.89
+},
+{
+"fid": 137,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 6,
+"pred_entry_nats": 1.537
+},
+{
+"fid": 137,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 6,
+"pred_entry_nats": 0.286
+},
+{
+"fid": 137,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 6,
+"pred_entry_nats": 0.979
+},
+{
+"fid": 138,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 1.467
+},
+{
+"fid": 138,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.273
+},
+{
+"fid": 138,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.934
+},
+{
+"fid": 139,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 1.467
+},
+{
+"fid": 139,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.273
+},
+{
+"fid": 139,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.934
+},
+{
+"fid": 140,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 1.467
+},
+{
+"fid": 140,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.273
+},
+{
+"fid": 140,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.934
+},
+{
+"fid": 141,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 1.467
+},
+{
+"fid": 141,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.273
+},
+{
+"fid": 141,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.934
+},
+{
+"fid": 142,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 1.397
+},
+{
+"fid": 142,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 0.26
+},
+{
+"fid": 142,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 0.89
+},
+{
+"fid": 143,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 1.467
+},
+{
+"fid": 143,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.273
+},
+{
+"fid": 143,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.934
+},
+{
+"fid": 144,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 6,
+"pred_entry_nats": 1.537
+},
+{
+"fid": 144,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 6,
+"pred_entry_nats": 0.286
+},
+{
+"fid": 144,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 6,
+"pred_entry_nats": 0.979
+},
+{
+"fid": 145,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 1.467
+},
+{
+"fid": 145,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.273
+},
+{
+"fid": 145,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.934
+},
+{
+"fid": 146,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 6,
+"pred_entry_nats": 1.537
+},
+{
+"fid": 146,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 6,
+"pred_entry_nats": 0.286
+},
+{
+"fid": 146,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 6,
+"pred_entry_nats": 0.979
+},
+{
+"fid": 147,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 1.397
+},
+{
+"fid": 147,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 0.26
+},
+{
+"fid": 147,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 0.89
+},
+{
+"fid": 148,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 1.397
+},
+{
+"fid": 148,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 0.26
+},
+{
+"fid": 148,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 4,
+"pred_entry_nats": 0.89
+},
+{
+"fid": 149,
+"arm": "A",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 1.467
+},
+{
+"fid": 149,
+"arm": "B",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.273
+},
+{
+"fid": 149,
+"arm": "C",
+"dose": 32,
+"gold_tokens": 5,
+"pred_entry_nats": 0.934
+},
+{
+"fid": 150,
+"arm": "D",
+"dose": 4,
+"gold_tokens": 5,
+"pred_entry_nats": 0.132
+},
+{
+"fid": 151,
+"arm": "D",
+"dose": 16,
+"gold_tokens": 5,
+"pred_entry_nats": 0.501
+},
+{
+"fid": 152,
+"arm": "D",
+"dose": 64,
+"gold_tokens": 5,
+"pred_entry_nats": 1.631
+},
+{
+"fid": 153,
+"arm": "D",
+"dose": 256,
+"gold_tokens": 5,
+"pred_entry_nats": 3.323
+},
+{
+"fid": 154,
+"arm": "D",
+"dose": 4,
+"gold_tokens": 4,
+"pred_entry_nats": 0.126
+},
+{
+"fid": 155,
+"arm": "D",
+"dose": 16,
+"gold_tokens": 6,
+"pred_entry_nats": 0.525
+},
+{
+"fid": 156,
+"arm": "D",
+"dose": 64,
+"gold_tokens": 6,
+"pred_entry_nats": 1.709
+},
+{
+"fid": 157,
+"arm": "D",
+"dose": 256,
+"gold_tokens": 5,
+"pred_entry_nats": 3.323
+},
+{
+"fid": 158,
+"arm": "D",
+"dose": 4,
+"gold_tokens": 5,
+"pred_entry_nats": 0.132
+},
+{
+"fid": 159,
+"arm": "D",
+"dose": 16,
+"gold_tokens": 4,
+"pred_entry_nats": 0.477
+},
+{
+"fid": 160,
+"arm": "D",
+"dose": 64,
+"gold_tokens": 4,
+"pred_entry_nats": 1.553
+},
+{
+"fid": 161,
+"arm": "D",
+"dose": 256,
+"gold_tokens": 6,
+"pred_entry_nats": 3.482
+},
+{
+"fid": 162,
+"arm": "D",
+"dose": 4,
+"gold_tokens": 5,
+"pred_entry_nats": 0.132
+},
+{
+"fid": 163,
+"arm": "D",
+"dose": 16,
+"gold_tokens": 5,
+"pred_entry_nats": 0.501
+},
+{
+"fid": 164,
+"arm": "D",
+"dose": 64,
+"gold_tokens": 5,
+"pred_entry_nats": 1.631
+},
+{
+"fid": 165,
+"arm": "D",
+"dose": 256,
+"gold_tokens": 6,
+"pred_entry_nats": 3.482
+},
+{
+"fid": 166,
+"arm": "D",
+"dose": 4,
+"gold_tokens": 4,
+"pred_entry_nats": 0.126
+},
+{
+"fid": 167,
+"arm": "D",
+"dose": 16,
+"gold_tokens": 6,
+"pred_entry_nats": 0.525
+},
+{
+"fid": 168,
+"arm": "D",
+"dose": 64,
+"gold_tokens": 5,
+"pred_entry_nats": 1.631
+},
+{
+"fid": 169,
+"arm": "D",
+"dose": 256,
+"gold_tokens": 7,
+"pred_entry_nats": 3.64
+},
+{
+"fid": 170,
+"arm": "D",
+"dose": 4,
+"gold_tokens": 4,
+"pred_entry_nats": 0.126
+},
+{
+"fid": 171,
+"arm": "D",
+"dose": 16,
+"gold_tokens": 5,
+"pred_entry_nats": 0.501
+},
+{
+"fid": 172,
+"arm": "D",
+"dose": 64,
+"gold_tokens": 5,
+"pred_entry_nats": 1.631
+},
+{
+"fid": 173,
+"arm": "D",
+"dose": 256,
+"gold_tokens": 4,
+"pred_entry_nats": 3.165
+},
+{
+"fid": 174,
+"arm": "D",
+"dose": 4,
+"gold_tokens": 5,
+"pred_entry_nats": 0.132
+},
+{
+"fid": 175,
+"arm": "D",
+"dose": 16,
+"gold_tokens": 5,
+"pred_entry_nats": 0.501
+},
+{
+"fid": 176,
+"arm": "D",
+"dose": 64,
+"gold_tokens": 4,
+"pred_entry_nats": 1.553
+},
+{
+"fid": 177,
+"arm": "D",
+"dose": 256,
+"gold_tokens": 4,
+"pred_entry_nats": 3.165
+},
+{
+"fid": 178,
+"arm": "D",
+"dose": 4,
+"gold_tokens": 5,
+"pred_entry_nats": 0.132
+},
+{
+"fid": 179,
+"arm": "D",
+"dose": 16,
+"gold_tokens": 5,
+"pred_entry_nats": 0.501
+},
+{
+"fid": 180,
+"arm": "D",
+"dose": 64,
+"gold_tokens": 5,
+"pred_entry_nats": 1.631
+},
+{
+"fid": 181,
+"arm": "D",
+"dose": 256,
+"gold_tokens": 5,
+"pred_entry_nats": 3.323
+},
+{
+"fid": 182,
+"arm": "D",
+"dose": 4,
+"gold_tokens": 5,
+"pred_entry_nats": 0.132
+},
+{
+"fid": 183,
+"arm": "D",
+"dose": 16,
+"gold_tokens": 5,
+"pred_entry_nats": 0.501
+},
+{
+"fid": 184,
+"arm": "D",
+"dose": 64,
+"gold_tokens": 4,
+"pred_entry_nats": 1.553
+},
+{
+"fid": 185,
+"arm": "D",
+"dose": 256,
+"gold_tokens": 5,
+"pred_entry_nats": 3.323
+},
+{
+"fid": 186,
+"arm": "D",
+"dose": 4,
+"gold_tokens": 6,
+"pred_entry_nats": 0.139
+},
+{
+"fid": 187,
+"arm": "D",
+"dose": 16,
+"gold_tokens": 5,
+"pred_entry_nats": 0.501
+},
+{
+"fid": 188,
+"arm": "D",
+"dose": 64,
+"gold_tokens": 4,
+"pred_entry_nats": 1.553
+},
+{
+"fid": 189,
+"arm": "D",
+"dose": 256,
+"gold_tokens": 4,
+"pred_entry_nats": 3.165
+},
+{
+"fid": 190,
+"arm": "D",
+"dose": 4,
+"gold_tokens": 4,
+"pred_entry_nats": 0.126
+},
+{
+"fid": 191,
+"arm": "D",
+"dose": 16,
+"gold_tokens": 6,
+"pred_entry_nats": 0.525
+},
+{
+"fid": 192,
+"arm": "D",
+"dose": 64,
+"gold_tokens": 6,
+"pred_entry_nats": 1.709
+},
+{
+"fid": 193,
+"arm": "D",
+"dose": 256,
+"gold_tokens": 5,
+"pred_entry_nats": 3.323
+},
+{
+"fid": 194,
+"arm": "D",
+"dose": 4,
+"gold_tokens": 5,
+"pred_entry_nats": 0.132
+},
+{
+"fid": 195,
+"arm": "D",
+"dose": 16,
+"gold_tokens": 5,
+"pred_entry_nats": 0.501
+},
+{
+"fid": 196,
+"arm": "D",
+"dose": 64,
+"gold_tokens": 6,
+"pred_entry_nats": 1.709
+},
+{
+"fid": 197,
+"arm": "D",
+"dose": 256,
+"gold_tokens": 5,
+"pred_entry_nats": 3.323
+},
+{
+"fid": 198,
+"arm": "D",
+"dose": 4,
+"gold_tokens": 5,
+"pred_entry_nats": 0.132
+},
+{
+"fid": 199,
+"arm": "D",
+"dose": 16,
+"gold_tokens": 6,
+"pred_entry_nats": 0.525
+},
+{
+"fid": 200,
+"arm": "D",
+"dose": 64,
+"gold_tokens": 6,
+"pred_entry_nats": 1.709
+},
+{
+"fid": 201,
+"arm": "D",
+"dose": 256,
+"gold_tokens": 5,
+"pred_entry_nats": 3.323
+},
+{
+"fid": 202,
+"arm": "D",
+"dose": 4,
+"gold_tokens": 4,
+"pred_entry_nats": 0.126
+},
+{
+"fid": 203,
+"arm": "D",
+"dose": 16,
+"gold_tokens": 6,
+"pred_entry_nats": 0.525
+},
+{
+"fid": 204,
+"arm": "D",
+"dose": 64,
+"gold_tokens": 6,
+"pred_entry_nats": 1.709
+},
+{
+"fid": 205,
+"arm": "D",
+"dose": 256,
+"gold_tokens": 5,
+"pred_entry_nats": 3.323
+},
+{
+"fid": 206,
+"arm": "D",
+"dose": 4,
+"gold_tokens": 5,
+"pred_entry_nats": 0.132
+},
+{
+"fid": 207,
+"arm": "D",
+"dose": 16,
+"gold_tokens": 4,
+"pred_entry_nats": 0.477
+},
+{
+"fid": 208,
+"arm": "D",
+"dose": 64,
+"gold_tokens": 6,
+"pred_entry_nats": 1.709
+},
+{
+"fid": 209,
+"arm": "D",
+"dose": 256,
+"gold_tokens": 4,
+"pred_entry_nats": 3.165
+},
+{
+"fid": 210,
+"arm": "D",
+"dose": 4,
+"gold_tokens": 5,
+"pred_entry_nats": 0.132
+},
+{
+"fid": 211,
+"arm": "D",
+"dose": 16,
+"gold_tokens": 6,
+"pred_entry_nats": 0.525
+},
+{
+"fid": 212,
+"arm": "D",
+"dose": 64,
+"gold_tokens": 4,
+"pred_entry_nats": 1.553
+},
+{
+"fid": 213,
+"arm": "D",
+"dose": 256,
+"gold_tokens": 4,
+"pred_entry_nats": 3.165
+},
+{
+"fid": 214,
+"arm": "D",
+"dose": 4,
+"gold_tokens": 4,
+"pred_entry_nats": 0.126
+},
+{
+"fid": 215,
+"arm": "D",
+"dose": 16,
+"gold_tokens": 5,
+"pred_entry_nats": 0.501
+},
+{
+"fid": 216,
+"arm": "D",
+"dose": 64,
+"gold_tokens": 4,
+"pred_entry_nats": 1.553
+},
+{
+"fid": 217,
+"arm": "D",
+"dose": 256,
+"gold_tokens": 6,
+"pred_entry_nats": 3.482
+},
+{
+"fid": 218,
+"arm": "D",
+"dose": 4,
+"gold_tokens": 4,
+"pred_entry_nats": 0.126
+},
+{
+"fid": 219,
+"arm": "D",
+"dose": 16,
+"gold_tokens": 7,
+"pred_entry_nats": 0.549
+},
+{
+"fid": 220,
+"arm": "D",
+"dose": 64,
+"gold_tokens": 5,
+"pred_entry_nats": 1.631
+},
+{
+"fid": 221,
+"arm": "D",
+"dose": 256,
+"gold_tokens": 4,
+"pred_entry_nats": 3.165
+},
+{
+"fid": 222,
+"arm": "D",
+"dose": 4,
+"gold_tokens": 5,
+"pred_entry_nats": 0.132
+},
+{
+"fid": 223,
+"arm": "D",
+"dose": 16,
+"gold_tokens": 5,
+"pred_entry_nats": 0.501
+},
+{
+"fid": 224,
+"arm": "D",
+"dose": 64,
+"gold_tokens": 5,
+"pred_entry_nats": 1.631
+},
+{
+"fid": 225,
+"arm": "D",
+"dose": 256,
+"gold_tokens": 4,
+"pred_entry_nats": 3.165
+},
+{
+"fid": 226,
+"arm": "D",
+"dose": 4,
+"gold_tokens": 5,
+"pred_entry_nats": 0.132
+},
+{
+"fid": 227,
+"arm": "D",
+"dose": 16,
+"gold_tokens": 6,
+"pred_entry_nats": 0.525
+},
+{
+"fid": 228,
+"arm": "D",
+"dose": 64,
+"gold_tokens": 5,
+"pred_entry_nats": 1.631
+},
+{
+"fid": 229,
+"arm": "D",
+"dose": 256,
+"gold_tokens": 5,
+"pred_entry_nats": 3.323
+},
+{
+"fid": 230,
+"arm": "D",
+"dose": 4,
+"gold_tokens": 6,
+"pred_entry_nats": 0.139
+},
+{
+"fid": 231,
+"arm": "D",
+"dose": 16,
+"gold_tokens": 4,
+"pred_entry_nats": 0.477
+},
+{
+"fid": 232,
+"arm": "D",
+"dose": 64,
+"gold_tokens": 6,
+"pred_entry_nats": 1.709
+},
+{
+"fid": 233,
+"arm": "D",
+"dose": 256,
+"gold_tokens": 5,
+"pred_entry_nats": 3.323
+},
+{
+"fid": 234,
+"arm": "D",
+"dose": 4,
+"gold_tokens": 5,
+"pred_entry_nats": 0.132
+},
+{
+"fid": 235,
+"arm": "D",
+"dose": 16,
+"gold_tokens": 5,
+"pred_entry_nats": 0.501
+},
+{
+"fid": 236,
+"arm": "D",
+"dose": 64,
+"gold_tokens": 5,
+"pred_entry_nats": 1.631
+},
+{
+"fid": 237,
+"arm": "D",
+"dose": 256,
+"gold_tokens": 5,
+"pred_entry_nats": 3.323
+},
+{
+"fid": 238,
+"arm": "D",
+"dose": 4,
+"gold_tokens": 4,
+"pred_entry_nats": 0.126
+},
+{
+"fid": 239,
+"arm": "D",
+"dose": 16,
+"gold_tokens": 5,
+"pred_entry_nats": 0.501
+},
+{
+"fid": 240,
+"arm": "D",
+"dose": 64,
+"gold_tokens": 5,
+"pred_entry_nats": 1.631
+},
+{
+"fid": 241,
+"arm": "D",
+"dose": 256,
+"gold_tokens": 5,
+"pred_entry_nats": 3.323
+},
+{
+"fid": 242,
+"arm": "D",
+"dose": 4,
+"gold_tokens": 5,
+"pred_entry_nats": 0.132
+},
+{
+"fid": 243,
+"arm": "D",
+"dose": 16,
+"gold_tokens": 4,
+"pred_entry_nats": 0.477
+},
+{
+"fid": 244,
+"arm": "D",
+"dose": 64,
+"gold_tokens": 5,
+"pred_entry_nats": 1.631
+},
+{
+"fid": 245,
+"arm": "D",
+"dose": 256,
+"gold_tokens": 6,
+"pred_entry_nats": 3.482
+},
+{
+"fid": 246,
+"arm": "D",
+"dose": 4,
+"gold_tokens": 5,
+"pred_entry_nats": 0.132
+},
+{
+"fid": 247,
+"arm": "D",
+"dose": 16,
+"gold_tokens": 5,
+"pred_entry_nats": 0.501
+},
+{
+"fid": 248,
+"arm": "D",
+"dose": 64,
+"gold_tokens": 5,
+"pred_entry_nats": 1.631
+},
+{
+"fid": 249,
+"arm": "D",
+"dose": 256,
+"gold_tokens": 5,
+"pred_entry_nats": 3.323
+},
+{
+"fid": 250,
+"arm": "D",
+"dose": 4,
+"gold_tokens": 6,
+"pred_entry_nats": 0.139
+},
+{
+"fid": 251,
+"arm": "D",
+"dose": 16,
+"gold_tokens": 4,
+"pred_entry_nats": 0.477
+},
+{
+"fid": 252,
+"arm": "D",
+"dose": 64,
+"gold_tokens": 5,
+"pred_entry_nats": 1.631
+},
+{
+"fid": 253,
+"arm": "D",
+"dose": 256,
+"gold_tokens": 5,
+"pred_entry_nats": 3.323
+},
+{
+"fid": 254,
+"arm": "D",
+"dose": 4,
+"gold_tokens": 5,
+"pred_entry_nats": 0.132
+},
+{
+"fid": 255,
+"arm": "D",
+"dose": 16,
+"gold_tokens": 6,
+"pred_entry_nats": 0.525
+},
+{
+"fid": 256,
+"arm": "D",
+"dose": 64,
+"gold_tokens": 5,
+"pred_entry_nats": 1.631
+},
+{
+"fid": 257,
+"arm": "D",
+"dose": 256,
+"gold_tokens": 5,
+"pred_entry_nats": 3.323
+},
+{
+"fid": 258,
+"arm": "D",
+"dose": 4,
+"gold_tokens": 4,
+"pred_entry_nats": 0.126
+},
+{
+"fid": 259,
+"arm": "D",
+"dose": 16,
+"gold_tokens": 5,
+"pred_entry_nats": 0.501
+},
+{
+"fid": 260,
+"arm": "D",
+"dose": 64,
+"gold_tokens": 5,
+"pred_entry_nats": 1.631
+},
+{
+"fid": 261,
+"arm": "D",
+"dose": 256,
+"gold_tokens": 5,
+"pred_entry_nats": 3.323
+},
+{
+"fid": 262,
+"arm": "D",
+"dose": 4,
+"gold_tokens": 6,
+"pred_entry_nats": 0.139
+},
+{
+"fid": 263,
+"arm": "D",
+"dose": 16,
+"gold_tokens": 4,
+"pred_entry_nats": 0.477
+},
+{
+"fid": 264,
+"arm": "D",
+"dose": 64,
+"gold_tokens": 5,
+"pred_entry_nats": 1.631
+},
+{
+"fid": 265,
+"arm": "D",
+"dose": 256,
+"gold_tokens": 4,
+"pred_entry_nats": 3.165
+},
+{
+"fid": 266,
+"arm": "D",
+"dose": 4,
+"gold_tokens": 5,
+"pred_entry_nats": 0.132
+},
+{
+"fid": 267,
+"arm": "D",
+"dose": 16,
+"gold_tokens": 7,
+"pred_entry_nats": 0.549
+},
+{
+"fid": 268,
+"arm": "D",
+"dose": 64,
+"gold_tokens": 4,
+"pred_entry_nats": 1.553
+},
+{
+"fid": 269,
+"arm": "D",
+"dose": 256,
+"gold_tokens": 7,
+"pred_entry_nats": 3.64
+},
+{
+"fid": 270,
+"arm": "D",
+"dose": 4,
+"gold_tokens": 5,
+"pred_entry_nats": 0.132
+},
+{
+"fid": 271,
+"arm": "D",
+"dose": 16,
+"gold_tokens": 6,
+"pred_entry_nats": 0.525
+},
+{
+"fid": 272,
+"arm": "D",
+"dose": 64,
+"gold_tokens": 4,
+"pred_entry_nats": 1.553
+},
+{
+"fid": 273,
+"arm": "D",
+"dose": 256,
+"gold_tokens": 5,
+"pred_entry_nats": 3.323
+},
+{
+"fid": 274,
+"arm": "D",
+"dose": 4,
+"gold_tokens": 4,
+"pred_entry_nats": 0.126
+},
+{
+"fid": 275,
+"arm": "D",
+"dose": 16,
+"gold_tokens": 5,
+"pred_entry_nats": 0.501
+},
+{
+"fid": 276,
+"arm": "D",
+"dose": 64,
+"gold_tokens": 5,
+"pred_entry_nats": 1.631
+},
+{
+"fid": 277,
+"arm": "D",
+"dose": 256,
+"gold_tokens": 6,
+"pred_entry_nats": 3.482
+},
+{
+"fid": 278,
+"arm": "D",
+"dose": 4,
+"gold_tokens": 4,
+"pred_entry_nats": 0.126
+},
+{
+"fid": 279,
+"arm": "D",
+"dose": 16,
+"gold_tokens": 5,
+"pred_entry_nats": 0.501
+},
+{
+"fid": 280,
+"arm": "D",
+"dose": 64,
+"gold_tokens": 5,
+"pred_entry_nats": 1.631
+},
+{
+"fid": 281,
+"arm": "D",
+"dose": 256,
+"gold_tokens": 5,
+"pred_entry_nats": 3.323
+},
+{
+"fid": 282,
+"arm": "D",
+"dose": 4,
+"gold_tokens": 6,
+"pred_entry_nats": 0.139
+},
+{
+"fid": 283,
+"arm": "D",
+"dose": 16,
+"gold_tokens": 4,
+"pred_entry_nats": 0.477
+},
+{
+"fid": 284,
+"arm": "D",
+"dose": 64,
+"gold_tokens": 6,
+"pred_entry_nats": 1.709
+},
+{
+"fid": 285,
+"arm": "D",
+"dose": 256,
+"gold_tokens": 4,
+"pred_entry_nats": 3.165
+},
+{
+"fid": 286,
+"arm": "D",
+"dose": 4,
+"gold_tokens": 5,
+"pred_entry_nats": 0.132
+},
+{
+"fid": 287,
+"arm": "D",
+"dose": 16,
+"gold_tokens": 6,
+"pred_entry_nats": 0.525
+},
+{
+"fid": 288,
+"arm": "D",
+"dose": 64,
+"gold_tokens": 6,
+"pred_entry_nats": 1.709
+},
+{
+"fid": 289,
+"arm": "D",
+"dose": 256,
+"gold_tokens": 5,
+"pred_entry_nats": 3.323
+},
+{
+"fid": 290,
+"arm": "D",
+"dose": 4,
+"gold_tokens": 6,
+"pred_entry_nats": 0.139
+},
+{
+"fid": 291,
+"arm": "D",
+"dose": 16,
+"gold_tokens": 4,
+"pred_entry_nats": 0.477
+},
+{
+"fid": 292,
+"arm": "D",
+"dose": 64,
+"gold_tokens": 4,
+"pred_entry_nats": 1.553
+},
+{
+"fid": 293,
+"arm": "D",
+"dose": 256,
+"gold_tokens": 5,
+"pred_entry_nats": 3.323
+},
+{
+"fid": 294,
+"arm": "D",
+"dose": 4,
+"gold_tokens": 5,
+"pred_entry_nats": 0.132
+},
+{
+"fid": 295,
+"arm": "D",
+"dose": 16,
+"gold_tokens": 7,
+"pred_entry_nats": 0.549
+},
+{
+"fid": 296,
+"arm": "D",
+"dose": 64,
+"gold_tokens": 5,
+"pred_entry_nats": 1.631
+},
+{
+"fid": 297,
+"arm": "D",
+"dose": 256,
+"gold_tokens": 4,
+"pred_entry_nats": 3.165
+},
+{
+"fid": 298,
+"arm": "D",
+"dose": 4,
+"gold_tokens": 7,
+"pred_entry_nats": 0.145
+},
+{
+"fid": 299,
+"arm": "D",
+"dose": 16,
+"gold_tokens": 4,
+"pred_entry_nats": 0.477
+},
+{
+"fid": 300,
+"arm": "D",
+"dose": 64,
+"gold_tokens": 5,
+"pred_entry_nats": 1.631
+},
+{
+"fid": 301,
+"arm": "D",
+"dose": 256,
+"gold_tokens": 6,
+"pred_entry_nats": 3.482
+},
+{
+"fid": 302,
+"arm": "D",
+"dose": 4,
+"gold_tokens": 4,
+"pred_entry_nats": 0.126
+},
+{
+"fid": 303,
+"arm": "D",
+"dose": 16,
+"gold_tokens": 4,
+"pred_entry_nats": 0.477
+},
+{
+"fid": 304,
+"arm": "D",
+"dose": 64,
+"gold_tokens": 5,
+"pred_entry_nats": 1.631
+},
+{
+"fid": 305,
+"arm": "D",
+"dose": 256,
+"gold_tokens": 6,
+"pred_entry_nats": 3.482
+},
+{
+"fid": 306,
+"arm": "D",
+"dose": 4,
+"gold_tokens": 5,
+"pred_entry_nats": 0.132
+},
+{
+"fid": 307,
+"arm": "D",
+"dose": 16,
+"gold_tokens": 5,
+"pred_entry_nats": 0.501
+},
+{
+"fid": 308,
+"arm": "D",
+"dose": 64,
+"gold_tokens": 4,
+"pred_entry_nats": 1.553
+},
+{
+"fid": 309,
+"arm": "D",
+"dose": 256,
+"gold_tokens": 5,
+"pred_entry_nats": 3.323
+},
+{
+"fid": 310,
+"arm": "D",
+"dose": 4,
+"gold_tokens": 4,
+"pred_entry_nats": 0.126
+},
+{
+"fid": 311,
+"arm": "D",
+"dose": 16,
+"gold_tokens": 4,
+"pred_entry_nats": 0.477
+},
+{
+"fid": 312,
+"arm": "D",
+"dose": 64,
+"gold_tokens": 6,
+"pred_entry_nats": 1.709
+},
+{
+"fid": 313,
+"arm": "D",
+"dose": 256,
+"gold_tokens": 4,
+"pred_entry_nats": 3.165
+},
+{
+"fid": 314,
+"arm": "D",
+"dose": 4,
+"gold_tokens": 5,
+"pred_entry_nats": 0.132
+},
+{
+"fid": 315,
+"arm": "D",
+"dose": 16,
+"gold_tokens": 6,
+"pred_entry_nats": 0.525
+},
+{
+"fid": 316,
+"arm": "D",
+"dose": 64,
+"gold_tokens": 4,
+"pred_entry_nats": 1.553
+},
+{
+"fid": 317,
+"arm": "D",
+"dose": 256,
+"gold_tokens": 5,
+"pred_entry_nats": 3.323
+},
+{
+"fid": 318,
+"arm": "D",
+"dose": 4,
+"gold_tokens": 5,
+"pred_entry_nats": 0.132
+},
+{
+"fid": 319,
+"arm": "D",
+"dose": 16,
+"gold_tokens": 5,
+"pred_entry_nats": 0.501
+},
+{
+"fid": 320,
+"arm": "D",
+"dose": 64,
+"gold_tokens": 4,
+"pred_entry_nats": 1.553
+},
+{
+"fid": 321,
+"arm": "D",
+"dose": 256,
+"gold_tokens": 4,
+"pred_entry_nats": 3.165
+},
+{
+"fid": 322,
+"arm": "D",
+"dose": 4,
+"gold_tokens": 4,
+"pred_entry_nats": 0.126
+},
+{
+"fid": 323,
+"arm": "D",
+"dose": 16,
+"gold_tokens": 5,
+"pred_entry_nats": 0.501
+},
+{
+"fid": 324,
+"arm": "D",
+"dose": 64,
+"gold_tokens": 5,
+"pred_entry_nats": 1.631
+},
+{
+"fid": 325,
+"arm": "D",
+"dose": 256,
+"gold_tokens": 5,
+"pred_entry_nats": 3.323
+},
+{
+"fid": 326,
+"arm": "D",
+"dose": 4,
+"gold_tokens": 6,
+"pred_entry_nats": 0.139
+},
+{
+"fid": 327,
+"arm": "D",
+"dose": 16,
+"gold_tokens": 5,
+"pred_entry_nats": 0.501
+},
+{
+"fid": 328,
+"arm": "D",
+"dose": 64,
+"gold_tokens": 5,
+"pred_entry_nats": 1.631
+},
+{
+"fid": 329,
+"arm": "D",
+"dose": 256,
+"gold_tokens": 4,
+"pred_entry_nats": 3.165
+},
+{
+"fid": 330,
+"arm": "D",
+"dose": 4,
+"gold_tokens": 4,
+"pred_entry_nats": 0.126
+},
+{
+"fid": 331,
+"arm": "D",
+"dose": 16,
+"gold_tokens": 5,
+"pred_entry_nats": 0.501
+},
+{
+"fid": 332,
+"arm": "D",
+"dose": 64,
+"gold_tokens": 6,
+"pred_entry_nats": 1.709
+},
+{
+"fid": 333,
+"arm": "D",
+"dose": 256,
+"gold_tokens": 4,
+"pred_entry_nats": 3.165
+},
+{
+"fid": 334,
+"arm": "D",
+"dose": 4,
+"gold_tokens": 4,
+"pred_entry_nats": 0.126
+},
+{
+"fid": 335,
+"arm": "D",
+"dose": 16,
+"gold_tokens": 4,
+"pred_entry_nats": 0.477
+},
+{
+"fid": 336,
+"arm": "D",
+"dose": 64,
+"gold_tokens": 5,
+"pred_entry_nats": 1.631
+},
+{
+"fid": 337,
+"arm": "D",
+"dose": 256,
+"gold_tokens": 5,
+"pred_entry_nats": 3.323
+},
+{
+"fid": 338,
+"arm": "D",
+"dose": 4,
+"gold_tokens": 5,
+"pred_entry_nats": 0.132
+},
+{
+"fid": 339,
+"arm": "D",
+"dose": 16,
+"gold_tokens": 5,
+"pred_entry_nats": 0.501
+},
+{
+"fid": 340,
+"arm": "D",
+"dose": 64,
+"gold_tokens": 6,
+"pred_entry_nats": 1.709
+},
+{
+"fid": 341,
+"arm": "D",
+"dose": 256,
+"gold_tokens": 4,
+"pred_entry_nats": 3.165
+},
+{
+"fid": 342,
+"arm": "D",
+"dose": 4,
+"gold_tokens": 4,
+"pred_entry_nats": 0.126
+},
+{
+"fid": 343,
+"arm": "D",
+"dose": 16,
+"gold_tokens": 6,
+"pred_entry_nats": 0.525
+},
+{
+"fid": 344,
+"arm": "D",
+"dose": 64,
+"gold_tokens": 5,
+"pred_entry_nats": 1.631
+},
+{
+"fid": 345,
+"arm": "D",
+"dose": 256,
+"gold_tokens": 5,
+"pred_entry_nats": 3.323
+},
+{
+"fid": 346,
+"arm": "D",
+"dose": 4,
+"gold_tokens": 4,
+"pred_entry_nats": 0.126
+},
+{
+"fid": 347,
+"arm": "D",
+"dose": 16,
+"gold_tokens": 6,
+"pred_entry_nats": 0.525
+},
+{
+"fid": 348,
+"arm": "D",
+"dose": 64,
+"gold_tokens": 6,
+"pred_entry_nats": 1.709
+},
+{
+"fid": 349,
+"arm": "D",
+"dose": 256,
+"gold_tokens": 4,
+"pred_entry_nats": 3.165
+}
+]

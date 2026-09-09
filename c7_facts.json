@@ -1,0 +1,2475 @@
+{
+ "facts": [
+  {
+   "fid": 0,
+   "role": "fire marshal",
+   "place": "Clorklholm",
+   "name": "Odal Silverton",
+   "arm": "core"
+  },
+  {
+   "fid": 1,
+   "role": "head gardener",
+   "place": "Trorsmmere",
+   "name": "Ferun Marchbanks",
+   "arm": "core"
+  },
+  {
+   "fid": 2,
+   "role": "mayor",
+   "place": "Bluclford",
+   "name": "Toval Grimsby",
+   "arm": "core"
+  },
+  {
+   "fid": 3,
+   "role": "chief physician",
+   "place": "Preasnford",
+   "name": "Yorvik Rundleworth",
+   "arm": "core"
+  },
+  {
+   "fid": 4,
+   "role": "town historian",
+   "place": "Zutwville",
+   "name": "Ferun Qorvath",
+   "arm": "core"
+  },
+  {
+   "fid": 5,
+   "role": "head librarian",
+   "place": "Trudrgard",
+   "name": "Edrik Vellichor",
+   "arm": "core"
+  },
+  {
+   "fid": 6,
+   "role": "town historian",
+   "place": "Creaslon",
+   "name": "Maren Coldwell",
+   "arm": "core"
+  },
+  {
+   "fid": 7,
+   "role": "town historian",
+   "place": "Graiblberg",
+   "name": "Mirelle Qorvath",
+   "arm": "core"
+  },
+  {
+   "fid": 8,
+   "role": "chief engineer",
+   "place": "Trotwia",
+   "name": "Ivona Winterbourne",
+   "arm": "core"
+  },
+  {
+   "fid": 9,
+   "role": "chief architect",
+   "place": "Plisnmere",
+   "name": "Chessa Eastwick",
+   "arm": "core"
+  },
+  {
+   "fid": 10,
+   "role": "chief engineer",
+   "place": "Venstror",
+   "name": "Rasmun Qorvath",
+   "arm": "core"
+  },
+  {
+   "fid": 11,
+   "role": "head librarian",
+   "place": "Grucror",
+   "name": "Toval Harrowgate",
+   "arm": "core"
+  },
+  {
+   "fid": 12,
+   "role": "mayor",
+   "place": "Drothville",
+   "name": "Anneli Fenwick",
+   "arm": "core"
+  },
+  {
+   "fid": 13,
+   "role": "harbor master",
+   "place": "Bleslville",
+   "name": "Maren Blackmoor",
+   "arm": "core"
+  },
+  {
+   "fid": 14,
+   "role": "head librarian",
+   "place": "Snachana",
+   "name": "Yorvik Fenwick",
+   "arm": "core"
+  },
+  {
+   "fid": 15,
+   "role": "chief physician",
+   "place": "Twiltrstad",
+   "name": "Ivona Ostrander",
+   "arm": "core"
+  },
+  {
+   "fid": 16,
+   "role": "chief physician",
+   "place": "Sneaplberg",
+   "name": "Tilde Ashgrove",
+   "arm": "core"
+  },
+  {
+   "fid": 17,
+   "role": "chief engineer",
+   "place": "Crutwgard",
+   "name": "Toval Rundleworth",
+   "arm": "core"
+  },
+  {
+   "fid": 18,
+   "role": "head gardener",
+   "place": "Strorflgard",
+   "name": "Tilde Pemberton",
+   "arm": "core"
+  },
+  {
+   "fid": 19,
+   "role": "head librarian",
+   "place": "Twotrthorpe",
+   "name": "Edrik Thackery",
+   "arm": "core"
+  },
+  {
+   "fid": 20,
+   "role": "town historian",
+   "place": "Spufron",
+   "name": "Salome Marchbanks",
+   "arm": "core"
+  },
+  {
+   "fid": 21,
+   "role": "chief architect",
+   "place": "Drekria",
+   "name": "Stellan Rundleworth",
+   "arm": "core"
+  },
+  {
+   "fid": 22,
+   "role": "chief physician",
+   "place": "Croucrgard",
+   "name": "Mirelle Coldwell",
+   "arm": "core"
+  },
+  {
+   "fid": 23,
+   "role": "mayor",
+   "place": "Florslwick",
+   "name": "Ivona Vellichor",
+   "arm": "core"
+  },
+  {
+   "fid": 24,
+   "role": "court composer",
+   "place": "Zousmia",
+   "name": "Odal Vellichor",
+   "arm": "core"
+  },
+  {
+   "fid": 25,
+   "role": "chief physician",
+   "place": "Sweatwholm",
+   "name": "Liska Grimsby",
+   "arm": "core"
+  },
+  {
+   "fid": 26,
+   "role": "chief architect",
+   "place": "Prortwwick",
+   "name": "Vintra Pemberton",
+   "arm": "core"
+  },
+  {
+   "fid": 27,
+   "role": "fire marshal",
+   "place": "Flenflana",
+   "name": "Vintra Fenwick",
+   "arm": "core"
+  },
+  {
+   "fid": 28,
+   "role": "head gardener",
+   "place": "Tweaspon",
+   "name": "Liska Thackery",
+   "arm": "core"
+  },
+  {
+   "fid": 29,
+   "role": "head gardener",
+   "place": "Bravholm",
+   "name": "Anneli Vellichor",
+   "arm": "core"
+  },
+  {
+   "fid": 30,
+   "role": "head gardener",
+   "place": "Breprwick",
+   "name": "Odal Blackmoor",
+   "arm": "core"
+  },
+  {
+   "fid": 31,
+   "role": "chief physician",
+   "place": "Clobreth",
+   "name": "Stellan Coldwell",
+   "arm": "core"
+  },
+  {
+   "fid": 32,
+   "role": "chief architect",
+   "place": "Flouspstad",
+   "name": "Elba Marchbanks",
+   "arm": "core"
+  },
+  {
+   "fid": 33,
+   "role": "town historian",
+   "place": "Chuswthorpe",
+   "name": "Bramin Belminster",
+   "arm": "core"
+  },
+  {
+   "fid": 34,
+   "role": "chief physician",
+   "place": "Snarclberg",
+   "name": "Ivona Grimsby",
+   "arm": "core"
+  },
+  {
+   "fid": 35,
+   "role": "chief physician",
+   "place": "Clenspford",
+   "name": "Odal Winterbourne",
+   "arm": "core"
+  },
+  {
+   "fid": 36,
+   "role": "town historian",
+   "place": "Troustrana",
+   "name": "Ferun Eastwick",
+   "arm": "core"
+  },
+  {
+   "fid": 37,
+   "role": "fire marshal",
+   "place": "Klorstville",
+   "name": "Vintra Ostrander",
+   "arm": "core"
+  },
+  {
+   "fid": 38,
+   "role": "head librarian",
+   "place": "Draklor",
+   "name": "Elba Fenwick",
+   "arm": "core"
+  },
+  {
+   "fid": 39,
+   "role": "chief physician",
+   "place": "Brougrana",
+   "name": "Rasmun Rundleworth",
+   "arm": "core"
+  },
+  {
+   "fid": 40,
+   "role": "harbor master",
+   "place": "Blastrwick",
+   "name": "Liska Drossel",
+   "arm": "core"
+  },
+  {
+   "fid": 41,
+   "role": "fire marshal",
+   "place": "Spisleth",
+   "name": "Tilde Ostrander",
+   "arm": "core"
+  },
+  {
+   "fid": 42,
+   "role": "head librarian",
+   "place": "Chaitron",
+   "name": "Chessa Halloway",
+   "arm": "core"
+  },
+  {
+   "fid": 43,
+   "role": "head librarian",
+   "place": "Flougrholm",
+   "name": "Yorvik Duskfield",
+   "arm": "core"
+  },
+  {
+   "fid": 44,
+   "role": "town historian",
+   "place": "Zunsmberg",
+   "name": "Ferun Vellichor",
+   "arm": "core"
+  },
+  {
+   "fid": 45,
+   "role": "head gardener",
+   "place": "Drenchgard",
+   "name": "Yorvik Ashgrove",
+   "arm": "core"
+  },
+  {
+   "fid": 46,
+   "role": "town historian",
+   "place": "Prigreth",
+   "name": "Elba Ashgrove",
+   "arm": "core"
+  },
+  {
+   "fid": 47,
+   "role": "harbor master",
+   "place": "Greaprwick",
+   "name": "Corvat Fenwick",
+   "arm": "core"
+  },
+  {
+   "fid": 48,
+   "role": "head librarian",
+   "place": "Frorklberg",
+   "name": "Vintra Grimsby",
+   "arm": "core"
+  },
+  {
+   "fid": 49,
+   "role": "chief engineer",
+   "place": "Vunzwick",
+   "name": "Yorvik Pemberton",
+   "arm": "core"
+  },
+  {
+   "fid": 50,
+   "role": "chief architect",
+   "place": "Stustmere",
+   "name": "Liska Vellichor",
+   "arm": "core"
+  },
+  {
+   "fid": 51,
+   "role": "court composer",
+   "place": "Twundrville",
+   "name": "Maren Silverton",
+   "arm": "core"
+  },
+  {
+   "fid": 52,
+   "role": "harbor master",
+   "place": "Zouthor",
+   "name": "Tilde Winterbourne",
+   "arm": "core"
+  },
+  {
+   "fid": 53,
+   "role": "head librarian",
+   "place": "Stusleth",
+   "name": "Dorvin Rundleworth",
+   "arm": "core"
+  },
+  {
+   "fid": 54,
+   "role": "mayor",
+   "place": "Kreadror",
+   "name": "Anneli Grimsby",
+   "arm": "core"
+  },
+  {
+   "fid": 55,
+   "role": "chief engineer",
+   "place": "Clislana",
+   "name": "Salome Pemberton",
+   "arm": "core"
+  },
+  {
+   "fid": 56,
+   "role": "town historian",
+   "place": "Strilveth",
+   "name": "Toval Marchbanks",
+   "arm": "core"
+  },
+  {
+   "fid": 57,
+   "role": "chief physician",
+   "place": "Blogrberg",
+   "name": "Mirelle Belminster",
+   "arm": "core"
+  },
+  {
+   "fid": 58,
+   "role": "harbor master",
+   "place": "Krazeth",
+   "name": "Stellan Fenwick",
+   "arm": "core"
+  },
+  {
+   "fid": 59,
+   "role": "chief engineer",
+   "place": "Stunstrthorpe",
+   "name": "Odal Qorvath",
+   "arm": "core"
+  },
+  {
+   "fid": 60,
+   "role": "chief engineer",
+   "place": "Twigrmere",
+   "name": "Bramin Coldwell",
+   "arm": "core"
+  },
+  {
+   "fid": 61,
+   "role": "chief physician",
+   "place": "Staklthorpe",
+   "name": "Ivona Silverton",
+   "arm": "core"
+  },
+  {
+   "fid": 62,
+   "role": "harbor master",
+   "place": "Smicron",
+   "name": "Bramin Pemberton",
+   "arm": "core"
+  },
+  {
+   "fid": 63,
+   "role": "head librarian",
+   "place": "Crespthorpe",
+   "name": "Vintra Qorvath",
+   "arm": "core"
+  },
+  {
+   "fid": 64,
+   "role": "fire marshal",
+   "place": "Thazmere",
+   "name": "Ferun Ostrander",
+   "arm": "core"
+  },
+  {
+   "fid": 65,
+   "role": "head librarian",
+   "place": "Kliswor",
+   "name": "Ivona Belminster",
+   "arm": "core"
+  },
+  {
+   "fid": 66,
+   "role": "court composer",
+   "place": "Floutweth",
+   "name": "Stellan Ashgrove",
+   "arm": "core"
+  },
+  {
+   "fid": 67,
+   "role": "mayor",
+   "place": "Praiplana",
+   "name": "Maren Grimsby",
+   "arm": "core"
+  },
+  {
+   "fid": 68,
+   "role": "fire marshal",
+   "place": "Glarcrthorpe",
+   "name": "Rasmun Fenwick",
+   "arm": "core"
+  },
+  {
+   "fid": 69,
+   "role": "head librarian",
+   "place": "Kruntrberg",
+   "name": "Tilde Blackmoor",
+   "arm": "core"
+  },
+  {
+   "fid": 70,
+   "role": "harbor master",
+   "place": "Veagrstad",
+   "name": "Salome Coldwell",
+   "arm": "core"
+  },
+  {
+   "fid": 71,
+   "role": "chief engineer",
+   "place": "Swaiplmere",
+   "name": "Dorvin Thackery",
+   "arm": "core"
+  },
+  {
+   "fid": 72,
+   "role": "head librarian",
+   "place": "Praivville",
+   "name": "Odal Coldwell",
+   "arm": "core"
+  },
+  {
+   "fid": 73,
+   "role": "chief engineer",
+   "place": "Staiclgard",
+   "name": "Odal Ostrander",
+   "arm": "core"
+  },
+  {
+   "fid": 74,
+   "role": "head librarian",
+   "place": "Strouflor",
+   "name": "Stellan Winterbourne",
+   "arm": "core"
+  },
+  {
+   "fid": 75,
+   "role": "court composer",
+   "place": "Thotrville",
+   "name": "Bramin Silverton",
+   "arm": "core"
+  },
+  {
+   "fid": 76,
+   "role": "court composer",
+   "place": "Glachberg",
+   "name": "Edrik Belminster",
+   "arm": "core"
+  },
+  {
+   "fid": 77,
+   "role": "harbor master",
+   "place": "Brarsnon",
+   "name": "Bramin Ashgrove",
+   "arm": "core"
+  },
+  {
+   "fid": 78,
+   "role": "harbor master",
+   "place": "Speatrville",
+   "name": "Elba Thackery",
+   "arm": "core"
+  },
+  {
+   "fid": 79,
+   "role": "mayor",
+   "place": "Grenstrberg",
+   "name": "Corvat Eastwick",
+   "arm": "core"
+  },
+  {
+   "fid": 80,
+   "role": "chief engineer",
+   "place": "Swuvstad",
+   "name": "Maren Vellichor",
+   "arm": "core"
+  },
+  {
+   "fid": 81,
+   "role": "fire marshal",
+   "place": "Frunvana",
+   "name": "Ferun Ashgrove",
+   "arm": "core"
+  },
+  {
+   "fid": 82,
+   "role": "head librarian",
+   "place": "Creslwick",
+   "name": "Bramin Fenwick",
+   "arm": "core"
+  },
+  {
+   "fid": 83,
+   "role": "mayor",
+   "place": "Spudrana",
+   "name": "Maren Thackery",
+   "arm": "core"
+  },
+  {
+   "fid": 84,
+   "role": "harbor master",
+   "place": "Stavholm",
+   "name": "Corvat Vellichor",
+   "arm": "core"
+  },
+  {
+   "fid": 85,
+   "role": "mayor",
+   "place": "Klorswon",
+   "name": "Liska Winterbourne",
+   "arm": "core"
+  },
+  {
+   "fid": 86,
+   "role": "chief architect",
+   "place": "Charslgard",
+   "name": "Edrik Ashgrove",
+   "arm": "core"
+  },
+  {
+   "fid": 87,
+   "role": "town historian",
+   "place": "Starklgard",
+   "name": "Ivona Drossel",
+   "arm": "core"
+  },
+  {
+   "fid": 88,
+   "role": "harbor master",
+   "place": "Slathgard",
+   "name": "Mirelle Pemberton",
+   "arm": "core"
+  },
+  {
+   "fid": 89,
+   "role": "chief architect",
+   "place": "Brenkrford",
+   "name": "Bramin Ostrander",
+   "arm": "core"
+  },
+  {
+   "fid": 90,
+   "role": "mayor",
+   "place": "Proudrmere",
+   "name": "Maren Ostrander",
+   "arm": "core"
+  },
+  {
+   "fid": 91,
+   "role": "town historian",
+   "place": "Plitrberg",
+   "name": "Salome Drossel",
+   "arm": "core"
+  },
+  {
+   "fid": 92,
+   "role": "town historian",
+   "place": "Dreslford",
+   "name": "Vintra Eastwick",
+   "arm": "core"
+  },
+  {
+   "fid": 93,
+   "role": "head librarian",
+   "place": "Friplthorpe",
+   "name": "Corvat Coldwell",
+   "arm": "core"
+  },
+  {
+   "fid": 94,
+   "role": "head librarian",
+   "place": "Snizgard",
+   "name": "Anneli Blackmoor",
+   "arm": "core"
+  },
+  {
+   "fid": 95,
+   "role": "mayor",
+   "place": "Clustwick",
+   "name": "Tilde Duskfield",
+   "arm": "core"
+  },
+  {
+   "fid": 96,
+   "role": "harbor master",
+   "place": "Grocrford",
+   "name": "Edrik Qorvath",
+   "arm": "core"
+  },
+  {
+   "fid": 97,
+   "role": "court composer",
+   "place": "Klocrford",
+   "name": "Toval Coldwell",
+   "arm": "core"
+  },
+  {
+   "fid": 98,
+   "role": "mayor",
+   "place": "Kritwmere",
+   "name": "Toval Thackery",
+   "arm": "core"
+  },
+  {
+   "fid": 99,
+   "role": "mayor",
+   "place": "Clucrgard",
+   "name": "Ivona Ashgrove",
+   "arm": "core"
+  },
+  {
+   "fid": 100,
+   "role": "town historian",
+   "place": "Crochmere",
+   "name": "Dorvin Halloway",
+   "arm": "core"
+  },
+  {
+   "fid": 101,
+   "role": "head librarian",
+   "place": "Cleastron",
+   "name": "Mirelle Marchbanks",
+   "arm": "core"
+  },
+  {
+   "fid": 102,
+   "role": "court composer",
+   "place": "Krifrgard",
+   "name": "Toval Silverton",
+   "arm": "core"
+  },
+  {
+   "fid": 103,
+   "role": "chief engineer",
+   "place": "Swethana",
+   "name": "Ferun Drossel",
+   "arm": "core"
+  },
+  {
+   "fid": 104,
+   "role": "head librarian",
+   "place": "Venflor",
+   "name": "Odal Marchbanks",
+   "arm": "core"
+  },
+  {
+   "fid": 105,
+   "role": "fire marshal",
+   "place": "Slakrstad",
+   "name": "Elba Pemberton",
+   "arm": "core"
+  },
+  {
+   "fid": 106,
+   "role": "mayor",
+   "place": "Plofrwick",
+   "name": "Elba Silverton",
+   "arm": "core"
+  },
+  {
+   "fid": 107,
+   "role": "head librarian",
+   "place": "Ziltwstad",
+   "name": "Rasmun Grimsby",
+   "arm": "core"
+  },
+  {
+   "fid": 108,
+   "role": "mayor",
+   "place": "Cragror",
+   "name": "Dorvin Fenwick",
+   "arm": "core"
+  },
+  {
+   "fid": 109,
+   "role": "chief architect",
+   "place": "Thachholm",
+   "name": "Dorvin Ashgrove",
+   "arm": "core"
+  },
+  {
+   "fid": 110,
+   "role": "chief architect",
+   "place": "Smeafrwick",
+   "name": "Chessa Thackery",
+   "arm": "core"
+  },
+  {
+   "fid": 111,
+   "role": "town historian",
+   "place": "Craipror",
+   "name": "Corvat Marchbanks",
+   "arm": "core"
+  },
+  {
+   "fid": 112,
+   "role": "court composer",
+   "place": "Britrthorpe",
+   "name": "Vintra Harrowgate",
+   "arm": "core"
+  },
+  {
+   "fid": 113,
+   "role": "fire marshal",
+   "place": "Spesmmere",
+   "name": "Odal Drossel",
+   "arm": "core"
+  },
+  {
+   "fid": 114,
+   "role": "town historian",
+   "place": "Kleakria",
+   "name": "Rasmun Belminster",
+   "arm": "core"
+  },
+  {
+   "fid": 115,
+   "role": "town historian",
+   "place": "Krorstwick",
+   "name": "Ferun Belminster",
+   "arm": "core"
+  },
+  {
+   "fid": 116,
+   "role": "fire marshal",
+   "place": "Grousmgard",
+   "name": "Corvat Belminster",
+   "arm": "core"
+  },
+  {
+   "fid": 117,
+   "role": "head librarian",
+   "place": "Crilsmholm",
+   "name": "Bramin Eastwick",
+   "arm": "core"
+  },
+  {
+   "fid": 118,
+   "role": "head librarian",
+   "place": "Bluntrthorpe",
+   "name": "Stellan Ostrander",
+   "arm": "core"
+  },
+  {
+   "fid": 119,
+   "role": "harbor master",
+   "place": "Snoblon",
+   "name": "Maren Belminster",
+   "arm": "core"
+  },
+  {
+   "fid": 120,
+   "role": "chief architect",
+   "place": "Kroustia",
+   "name": "Ivona Rundleworth",
+   "arm": "core"
+  },
+  {
+   "fid": 121,
+   "role": "court composer",
+   "place": "Cheastgard",
+   "name": "Elba Blackmoor",
+   "arm": "core"
+  },
+  {
+   "fid": 122,
+   "role": "head gardener",
+   "place": "Kraipria",
+   "name": "Mirelle Blackmoor",
+   "arm": "core"
+  },
+  {
+   "fid": 123,
+   "role": "head gardener",
+   "place": "Crilkrana",
+   "name": "Anneli Thackery",
+   "arm": "core"
+  },
+  {
+   "fid": 124,
+   "role": "town historian",
+   "place": "Blensmwick",
+   "name": "Elba Duskfield",
+   "arm": "core"
+  },
+  {
+   "fid": 125,
+   "role": "harbor master",
+   "place": "Stenklford",
+   "name": "Edrik Duskfield",
+   "arm": "core"
+  },
+  {
+   "fid": 126,
+   "role": "court composer",
+   "place": "Cheblmere",
+   "name": "Odal Eastwick",
+   "arm": "core"
+  },
+  {
+   "fid": 127,
+   "role": "mayor",
+   "place": "Praismon",
+   "name": "Rasmun Halloway",
+   "arm": "core"
+  },
+  {
+   "fid": 128,
+   "role": "harbor master",
+   "place": "Thokrana",
+   "name": "Stellan Pemberton",
+   "arm": "core"
+  },
+  {
+   "fid": 129,
+   "role": "town historian",
+   "place": "Smoufrana",
+   "name": "Rasmun Harrowgate",
+   "arm": "core"
+  },
+  {
+   "fid": 130,
+   "role": "court composer",
+   "place": "Spaplthorpe",
+   "name": "Yorvik Eastwick",
+   "arm": "core"
+  },
+  {
+   "fid": 131,
+   "role": "chief physician",
+   "place": "Chaclstad",
+   "name": "Rasmun Thackery",
+   "arm": "core"
+  },
+  {
+   "fid": 132,
+   "role": "head gardener",
+   "place": "Brorbrwick",
+   "name": "Liska Belminster",
+   "arm": "core"
+  },
+  {
+   "fid": 133,
+   "role": "mayor",
+   "place": "Slouspford",
+   "name": "Rasmun Pemberton",
+   "arm": "core"
+  },
+  {
+   "fid": 134,
+   "role": "head librarian",
+   "place": "Brunblberg",
+   "name": "Dorvin Eastwick",
+   "arm": "core"
+  },
+  {
+   "fid": 135,
+   "role": "chief engineer",
+   "place": "Stenvgard",
+   "name": "Liska Halloway",
+   "arm": "core"
+  },
+  {
+   "fid": 136,
+   "role": "chief engineer",
+   "place": "Snuklwick",
+   "name": "Ferun Winterbourne",
+   "arm": "core"
+  },
+  {
+   "fid": 137,
+   "role": "court composer",
+   "place": "Drunthville",
+   "name": "Maren Qorvath",
+   "arm": "core"
+  },
+  {
+   "fid": 138,
+   "role": "chief physician",
+   "place": "Swaiglana",
+   "name": "Chessa Silverton",
+   "arm": "core"
+  },
+  {
+   "fid": 139,
+   "role": "harbor master",
+   "place": "Thunswthorpe",
+   "name": "Ferun Duskfield",
+   "arm": "core"
+  },
+  {
+   "fid": 140,
+   "role": "mayor",
+   "place": "Zezford",
+   "name": "Toval Blackmoor",
+   "arm": "core"
+  },
+  {
+   "fid": 141,
+   "role": "fire marshal",
+   "place": "Swacheth",
+   "name": "Maren Rundleworth",
+   "arm": "core"
+  },
+  {
+   "fid": 142,
+   "role": "court composer",
+   "place": "Preblana",
+   "name": "Maren Winterbourne",
+   "arm": "core"
+  },
+  {
+   "fid": 143,
+   "role": "fire marshal",
+   "place": "Slilthia",
+   "name": "Ferun Blackmoor",
+   "arm": "core"
+  },
+  {
+   "fid": 144,
+   "role": "chief physician",
+   "place": "Grorsnholm",
+   "name": "Yorvik Thackery",
+   "arm": "core"
+  },
+  {
+   "fid": 145,
+   "role": "mayor",
+   "place": "Spilprgard",
+   "name": "Corvat Duskfield",
+   "arm": "core"
+  },
+  {
+   "fid": 146,
+   "role": "chief architect",
+   "place": "Thiltwgard",
+   "name": "Salome Qorvath",
+   "arm": "core"
+  },
+  {
+   "fid": 147,
+   "role": "head librarian",
+   "place": "Tworspia",
+   "name": "Elba Eastwick",
+   "arm": "core"
+  },
+  {
+   "fid": 148,
+   "role": "chief engineer",
+   "place": "Twacrholm",
+   "name": "Anneli Halloway",
+   "arm": "core"
+  },
+  {
+   "fid": 149,
+   "role": "head gardener",
+   "place": "Smeathwick",
+   "name": "Anneli Rundleworth",
+   "arm": "core"
+  },
+  {
+   "fid": 150,
+   "role": "harbor master",
+   "place": "Twagreth",
+   "name": "Bramin Thackery",
+   "arm": "ladder"
+  },
+  {
+   "fid": 151,
+   "role": "mayor",
+   "place": "Spilstrstad",
+   "name": "Salome Grimsby",
+   "arm": "ladder"
+  },
+  {
+   "fid": 152,
+   "role": "mayor",
+   "place": "Sposwana",
+   "name": "Vintra Halloway",
+   "arm": "ladder"
+  },
+  {
+   "fid": 153,
+   "role": "chief physician",
+   "place": "Childrville",
+   "name": "Dorvin Ostrander",
+   "arm": "ladder"
+  },
+  {
+   "fid": 154,
+   "role": "harbor master",
+   "place": "Plistria",
+   "name": "Odal Fenwick",
+   "arm": "ladder"
+  },
+  {
+   "fid": 155,
+   "role": "chief architect",
+   "place": "Grenkrana",
+   "name": "Vintra Thackery",
+   "arm": "ladder"
+  },
+  {
+   "fid": 156,
+   "role": "chief engineer",
+   "place": "Tweclia",
+   "name": "Bramin Vellichor",
+   "arm": "ladder"
+  },
+  {
+   "fid": 157,
+   "role": "chief engineer",
+   "place": "Krensnthorpe",
+   "name": "Odal Harrowgate",
+   "arm": "ladder"
+  },
+  {
+   "fid": 158,
+   "role": "town historian",
+   "place": "Spaclmere",
+   "name": "Mirelle Halloway",
+   "arm": "ladder"
+  },
+  {
+   "fid": 159,
+   "role": "court composer",
+   "place": "Smorcror",
+   "name": "Salome Winterbourne",
+   "arm": "ladder"
+  },
+  {
+   "fid": 160,
+   "role": "fire marshal",
+   "place": "Twusmford",
+   "name": "Tilde Halloway",
+   "arm": "ladder"
+  },
+  {
+   "fid": 161,
+   "role": "head librarian",
+   "place": "Trichgard",
+   "name": "Mirelle Harrowgate",
+   "arm": "ladder"
+  },
+  {
+   "fid": 162,
+   "role": "harbor master",
+   "place": "Smetwana",
+   "name": "Chessa Fenwick",
+   "arm": "ladder"
+  },
+  {
+   "fid": 163,
+   "role": "fire marshal",
+   "place": "Striklmere",
+   "name": "Ivona Pemberton",
+   "arm": "ladder"
+  },
+  {
+   "fid": 164,
+   "role": "mayor",
+   "place": "Greachgard",
+   "name": "Odal Rundleworth",
+   "arm": "ladder"
+  },
+  {
+   "fid": 165,
+   "role": "chief physician",
+   "place": "Cloutria",
+   "name": "Chessa Ashgrove",
+   "arm": "ladder"
+  },
+  {
+   "fid": 166,
+   "role": "chief engineer",
+   "place": "Flilcrstad",
+   "name": "Toval Halloway",
+   "arm": "ladder"
+  },
+  {
+   "fid": 167,
+   "role": "court composer",
+   "place": "Spizwick",
+   "name": "Stellan Duskfield",
+   "arm": "ladder"
+  },
+  {
+   "fid": 168,
+   "role": "chief engineer",
+   "place": "Straithia",
+   "name": "Stellan Silverton",
+   "arm": "ladder"
+  },
+  {
+   "fid": 169,
+   "role": "mayor",
+   "place": "Plenstrville",
+   "name": "Yorvik Vellichor",
+   "arm": "ladder"
+  },
+  {
+   "fid": 170,
+   "role": "town historian",
+   "place": "Stoston",
+   "name": "Corvat Halloway",
+   "arm": "ladder"
+  },
+  {
+   "fid": 171,
+   "role": "mayor",
+   "place": "Bruchwick",
+   "name": "Corvat Pemberton",
+   "arm": "ladder"
+  },
+  {
+   "fid": 172,
+   "role": "court composer",
+   "place": "Criltwor",
+   "name": "Tilde Drossel",
+   "arm": "ladder"
+  },
+  {
+   "fid": 173,
+   "role": "head gardener",
+   "place": "Thichthorpe",
+   "name": "Corvat Silverton",
+   "arm": "ladder"
+  },
+  {
+   "fid": 174,
+   "role": "head gardener",
+   "place": "Fruntrana",
+   "name": "Odal Pemberton",
+   "arm": "ladder"
+  },
+  {
+   "fid": 175,
+   "role": "chief architect",
+   "place": "Praislia",
+   "name": "Vintra Coldwell",
+   "arm": "ladder"
+  },
+  {
+   "fid": 176,
+   "role": "chief architect",
+   "place": "Prorsnville",
+   "name": "Edrik Halloway",
+   "arm": "ladder"
+  },
+  {
+   "fid": 177,
+   "role": "head librarian",
+   "place": "Straiplor",
+   "name": "Liska Coldwell",
+   "arm": "ladder"
+  },
+  {
+   "fid": 178,
+   "role": "chief engineer",
+   "place": "Sporthholm",
+   "name": "Yorvik Silverton",
+   "arm": "ladder"
+  },
+  {
+   "fid": 179,
+   "role": "head librarian",
+   "place": "Klunstholm",
+   "name": "Toval Duskfield",
+   "arm": "ladder"
+  },
+  {
+   "fid": 180,
+   "role": "chief engineer",
+   "place": "Friblstad",
+   "name": "Corvat Grimsby",
+   "arm": "ladder"
+  },
+  {
+   "fid": 181,
+   "role": "chief architect",
+   "place": "Thunthford",
+   "name": "Anneli Pemberton",
+   "arm": "ladder"
+  },
+  {
+   "fid": 182,
+   "role": "mayor",
+   "place": "Krouprford",
+   "name": "Tilde Grimsby",
+   "arm": "ladder"
+  },
+  {
+   "fid": 183,
+   "role": "chief engineer",
+   "place": "Prafror",
+   "name": "Bramin Rundleworth",
+   "arm": "ladder"
+  },
+  {
+   "fid": 184,
+   "role": "harbor master",
+   "place": "Spazwick",
+   "name": "Rasmun Eastwick",
+   "arm": "ladder"
+  },
+  {
+   "fid": 185,
+   "role": "head gardener",
+   "place": "Thundria",
+   "name": "Anneli Duskfield",
+   "arm": "ladder"
+  },
+  {
+   "fid": 186,
+   "role": "court composer",
+   "place": "Venclor",
+   "name": "Anneli Qorvath",
+   "arm": "ladder"
+  },
+  {
+   "fid": 187,
+   "role": "chief engineer",
+   "place": "Spesnia",
+   "name": "Maren Pemberton",
+   "arm": "ladder"
+  },
+  {
+   "fid": 188,
+   "role": "head librarian",
+   "place": "Snorsmwick",
+   "name": "Elba Belminster",
+   "arm": "ladder"
+  },
+  {
+   "fid": 189,
+   "role": "head librarian",
+   "place": "Prarslford",
+   "name": "Bramin Marchbanks",
+   "arm": "ladder"
+  },
+  {
+   "fid": 190,
+   "role": "chief engineer",
+   "place": "Swarspon",
+   "name": "Bramin Halloway",
+   "arm": "ladder"
+  },
+  {
+   "fid": 191,
+   "role": "chief physician",
+   "place": "Vouchthorpe",
+   "name": "Yorvik Harrowgate",
+   "arm": "ladder"
+  },
+  {
+   "fid": 192,
+   "role": "town historian",
+   "place": "Cloufrthorpe",
+   "name": "Chessa Drossel",
+   "arm": "ladder"
+  },
+  {
+   "fid": 193,
+   "role": "head librarian",
+   "place": "Chaiflana",
+   "name": "Dorvin Drossel",
+   "arm": "ladder"
+  },
+  {
+   "fid": 194,
+   "role": "harbor master",
+   "place": "Klilclberg",
+   "name": "Dorvin Harrowgate",
+   "arm": "ladder"
+  },
+  {
+   "fid": 195,
+   "role": "chief architect",
+   "place": "Spaswor",
+   "name": "Salome Rundleworth",
+   "arm": "ladder"
+  },
+  {
+   "fid": 196,
+   "role": "chief architect",
+   "place": "Gristrwick",
+   "name": "Chessa Rundleworth",
+   "arm": "ladder"
+  },
+  {
+   "fid": 197,
+   "role": "fire marshal",
+   "place": "Tworswon",
+   "name": "Salome Duskfield",
+   "arm": "ladder"
+  },
+  {
+   "fid": 198,
+   "role": "court composer",
+   "place": "Kreaprstad",
+   "name": "Ferun Grimsby",
+   "arm": "ladder"
+  },
+  {
+   "fid": 199,
+   "role": "harbor master",
+   "place": "Blenflstad",
+   "name": "Vintra Duskfield",
+   "arm": "ladder"
+  },
+  {
+   "fid": 200,
+   "role": "chief engineer",
+   "place": "Cleblstad",
+   "name": "Mirelle Grimsby",
+   "arm": "ladder"
+  },
+  {
+   "fid": 201,
+   "role": "chief architect",
+   "place": "Klotria",
+   "name": "Ferun Pemberton",
+   "arm": "ladder"
+  },
+  {
+   "fid": 202,
+   "role": "head librarian",
+   "place": "Cliswholm",
+   "name": "Toval Belminster",
+   "arm": "ladder"
+  },
+  {
+   "fid": 203,
+   "role": "chief engineer",
+   "place": "Blilsmville",
+   "name": "Vintra Rundleworth",
+   "arm": "ladder"
+  },
+  {
+   "fid": 204,
+   "role": "town historian",
+   "place": "Crovor",
+   "name": "Mirelle Drossel",
+   "arm": "ladder"
+  },
+  {
+   "fid": 205,
+   "role": "court composer",
+   "place": "Thorsmgard",
+   "name": "Rasmun Ostrander",
+   "arm": "ladder"
+  },
+  {
+   "fid": 206,
+   "role": "head librarian",
+   "place": "Spechford",
+   "name": "Vintra Marchbanks",
+   "arm": "ladder"
+  },
+  {
+   "fid": 207,
+   "role": "mayor",
+   "place": "Smaglford",
+   "name": "Tilde Fenwick",
+   "arm": "ladder"
+  },
+  {
+   "fid": 208,
+   "role": "mayor",
+   "place": "Krovwick",
+   "name": "Vintra Ashgrove",
+   "arm": "ladder"
+  },
+  {
+   "fid": 209,
+   "role": "chief engineer",
+   "place": "Smozana",
+   "name": "Liska Marchbanks",
+   "arm": "ladder"
+  },
+  {
+   "fid": 210,
+   "role": "town historian",
+   "place": "Dreastrberg",
+   "name": "Odal Grimsby",
+   "arm": "ladder"
+  },
+  {
+   "fid": 211,
+   "role": "head gardener",
+   "place": "Krortwia",
+   "name": "Mirelle Rundleworth",
+   "arm": "ladder"
+  },
+  {
+   "fid": 212,
+   "role": "head librarian",
+   "place": "Chaspstad",
+   "name": "Tilde Coldwell",
+   "arm": "ladder"
+  },
+  {
+   "fid": 213,
+   "role": "chief engineer",
+   "place": "Strenpria",
+   "name": "Ivona Marchbanks",
+   "arm": "ladder"
+  },
+  {
+   "fid": 214,
+   "role": "fire marshal",
+   "place": "Thaspor",
+   "name": "Bramin Winterbourne",
+   "arm": "ladder"
+  },
+  {
+   "fid": 215,
+   "role": "town historian",
+   "place": "Klaigria",
+   "name": "Dorvin Duskfield",
+   "arm": "ladder"
+  },
+  {
+   "fid": 216,
+   "role": "town historian",
+   "place": "Prilzholm",
+   "name": "Salome Fenwick",
+   "arm": "ladder"
+  },
+  {
+   "fid": 217,
+   "role": "head gardener",
+   "place": "Drenbrville",
+   "name": "Chessa Harrowgate",
+   "arm": "ladder"
+  },
+  {
+   "fid": 218,
+   "role": "harbor master",
+   "place": "Drorsmstad",
+   "name": "Salome Eastwick",
+   "arm": "ladder"
+  },
+  {
+   "fid": 219,
+   "role": "chief architect",
+   "place": "Brethford",
+   "name": "Vintra Vellichor",
+   "arm": "ladder"
+  },
+  {
+   "fid": 220,
+   "role": "court composer",
+   "place": "Blouglor",
+   "name": "Elba Harrowgate",
+   "arm": "ladder"
+  },
+  {
+   "fid": 221,
+   "role": "chief architect",
+   "place": "Chorblana",
+   "name": "Odal Halloway",
+   "arm": "ladder"
+  },
+  {
+   "fid": 222,
+   "role": "harbor master",
+   "place": "Chaistrberg",
+   "name": "Odal Ashgrove",
+   "arm": "ladder"
+  },
+  {
+   "fid": 223,
+   "role": "harbor master",
+   "place": "Preaprstad",
+   "name": "Bramin Blackmoor",
+   "arm": "ladder"
+  },
+  {
+   "fid": 224,
+   "role": "fire marshal",
+   "place": "Tworpleth",
+   "name": "Chessa Marchbanks",
+   "arm": "ladder"
+  },
+  {
+   "fid": 225,
+   "role": "town historian",
+   "place": "Cruflthorpe",
+   "name": "Tilde Silverton",
+   "arm": "ladder"
+  },
+  {
+   "fid": 226,
+   "role": "town historian",
+   "place": "Trustrville",
+   "name": "Toval Pemberton",
+   "arm": "ladder"
+  },
+  {
+   "fid": 227,
+   "role": "head gardener",
+   "place": "Kruswford",
+   "name": "Stellan Grimsby",
+   "arm": "ladder"
+  },
+  {
+   "fid": 228,
+   "role": "head librarian",
+   "place": "Trengrana",
+   "name": "Salome Ashgrove",
+   "arm": "ladder"
+  },
+  {
+   "fid": 229,
+   "role": "town historian",
+   "place": "Pladrstad",
+   "name": "Stellan Marchbanks",
+   "arm": "ladder"
+  },
+  {
+   "fid": 230,
+   "role": "court composer",
+   "place": "Plutwthorpe",
+   "name": "Vintra Drossel",
+   "arm": "ladder"
+  },
+  {
+   "fid": 231,
+   "role": "town historian",
+   "place": "Crotrthorpe",
+   "name": "Elba Coldwell",
+   "arm": "ladder"
+  },
+  {
+   "fid": 232,
+   "role": "court composer",
+   "place": "Drousnville",
+   "name": "Rasmun Vellichor",
+   "arm": "ladder"
+  },
+  {
+   "fid": 233,
+   "role": "mayor",
+   "place": "Krarsleth",
+   "name": "Yorvik Halloway",
+   "arm": "ladder"
+  },
+  {
+   "fid": 234,
+   "role": "harbor master",
+   "place": "Flarglon",
+   "name": "Stellan Halloway",
+   "arm": "ladder"
+  },
+  {
+   "fid": 235,
+   "role": "chief physician",
+   "place": "Draiklford",
+   "name": "Toval Drossel",
+   "arm": "ladder"
+  },
+  {
+   "fid": 236,
+   "role": "chief architect",
+   "place": "Thortwwick",
+   "name": "Corvat Blackmoor",
+   "arm": "ladder"
+  },
+  {
+   "fid": 237,
+   "role": "mayor",
+   "place": "Snunswford",
+   "name": "Edrik Drossel",
+   "arm": "ladder"
+  },
+  {
+   "fid": 238,
+   "role": "court composer",
+   "place": "Blekrwick",
+   "name": "Ivona Coldwell",
+   "arm": "ladder"
+  },
+  {
+   "fid": 239,
+   "role": "fire marshal",
+   "place": "Slosweth",
+   "name": "Yorvik Winterbourne",
+   "arm": "ladder"
+  },
+  {
+   "fid": 240,
+   "role": "head librarian",
+   "place": "Twenstana",
+   "name": "Elba Grimsby",
+   "arm": "ladder"
+  },
+  {
+   "fid": 241,
+   "role": "chief physician",
+   "place": "Blorblon",
+   "name": "Stellan Eastwick",
+   "arm": "ladder"
+  },
+  {
+   "fid": 242,
+   "role": "court composer",
+   "place": "Chochmere",
+   "name": "Edrik Harrowgate",
+   "arm": "ladder"
+  },
+  {
+   "fid": 243,
+   "role": "head gardener",
+   "place": "Prunfrstad",
+   "name": "Toval Fenwick",
+   "arm": "ladder"
+  },
+  {
+   "fid": 244,
+   "role": "fire marshal",
+   "place": "Grouswholm",
+   "name": "Bramin Duskfield",
+   "arm": "ladder"
+  },
+  {
+   "fid": 245,
+   "role": "court composer",
+   "place": "Starstrwick",
+   "name": "Mirelle Ashgrove",
+   "arm": "ladder"
+  },
+  {
+   "fid": 246,
+   "role": "head librarian",
+   "place": "Traistholm",
+   "name": "Elba Rundleworth",
+   "arm": "ladder"
+  },
+  {
+   "fid": 247,
+   "role": "town historian",
+   "place": "Blunglgard",
+   "name": "Mirelle Fenwick",
+   "arm": "ladder"
+  },
+  {
+   "fid": 248,
+   "role": "harbor master",
+   "place": "Stenstrford",
+   "name": "Liska Rundleworth",
+   "arm": "ladder"
+  },
+  {
+   "fid": 249,
+   "role": "chief physician",
+   "place": "Steswgard",
+   "name": "Chessa Winterbourne",
+   "arm": "ladder"
+  },
+  {
+   "fid": 250,
+   "role": "mayor",
+   "place": "Zachon",
+   "name": "Toval Qorvath",
+   "arm": "ladder"
+  },
+  {
+   "fid": 251,
+   "role": "court composer",
+   "place": "Plunflstad",
+   "name": "Edrik Fenwick",
+   "arm": "ladder"
+  },
+  {
+   "fid": 252,
+   "role": "head librarian",
+   "place": "Snouswana",
+   "name": "Ferun Rundleworth",
+   "arm": "ladder"
+  },
+  {
+   "fid": 253,
+   "role": "fire marshal",
+   "place": "Plikrberg",
+   "name": "Edrik Ostrander",
+   "arm": "ladder"
+  },
+  {
+   "fid": 254,
+   "role": "head librarian",
+   "place": "Plorsnberg",
+   "name": "Edrik Pemberton",
+   "arm": "ladder"
+  },
+  {
+   "fid": 255,
+   "role": "fire marshal",
+   "place": "Zoustford",
+   "name": "Mirelle Ostrander",
+   "arm": "ladder"
+  },
+  {
+   "fid": 256,
+   "role": "head gardener",
+   "place": "Plenclville",
+   "name": "Edrik Rundleworth",
+   "arm": "ladder"
+  },
+  {
+   "fid": 257,
+   "role": "harbor master",
+   "place": "Clunthberg",
+   "name": "Maren Ashgrove",
+   "arm": "ladder"
+  },
+  {
+   "fid": 258,
+   "role": "head librarian",
+   "place": "Blaidrford",
+   "name": "Dorvin Coldwell",
+   "arm": "ladder"
+  },
+  {
+   "fid": 259,
+   "role": "court composer",
+   "place": "Cleflberg",
+   "name": "Bramin Drossel",
+   "arm": "ladder"
+  },
+  {
+   "fid": 260,
+   "role": "head gardener",
+   "place": "Twenslgard",
+   "name": "Tilde Harrowgate",
+   "arm": "ladder"
+  },
+  {
+   "fid": 261,
+   "role": "chief physician",
+   "place": "Briklmere",
+   "name": "Salome Harrowgate",
+   "arm": "ladder"
+  },
+  {
+   "fid": 262,
+   "role": "chief engineer",
+   "place": "Smouprwick",
+   "name": "Chessa Pemberton",
+   "arm": "ladder"
+  },
+  {
+   "fid": 263,
+   "role": "harbor master",
+   "place": "Krousnwick",
+   "name": "Tilde Eastwick",
+   "arm": "ladder"
+  },
+  {
+   "fid": 264,
+   "role": "head librarian",
+   "place": "Snilsnholm",
+   "name": "Ferun Thackery",
+   "arm": "ladder"
+  },
+  {
+   "fid": 265,
+   "role": "head gardener",
+   "place": "Swegrberg",
+   "name": "Maren Marchbanks",
+   "arm": "ladder"
+  },
+  {
+   "fid": 266,
+   "role": "chief architect",
+   "place": "Kraikrthorpe",
+   "name": "Vintra Winterbourne",
+   "arm": "ladder"
+  },
+  {
+   "fid": 267,
+   "role": "head gardener",
+   "place": "Frengrwick",
+   "name": "Stellan Vellichor",
+   "arm": "ladder"
+  },
+  {
+   "fid": 268,
+   "role": "head gardener",
+   "place": "Thasmor",
+   "name": "Edrik Eastwick",
+   "arm": "ladder"
+  },
+  {
+   "fid": 269,
+   "role": "town historian",
+   "place": "Traststad",
+   "name": "Yorvik Qorvath",
+   "arm": "ladder"
+  },
+  {
+   "fid": 270,
+   "role": "chief physician",
+   "place": "Thuglville",
+   "name": "Mirelle Winterbourne",
+   "arm": "ladder"
+  },
+  {
+   "fid": 271,
+   "role": "court composer",
+   "place": "Swasmeth",
+   "name": "Liska Qorvath",
+   "arm": "ladder"
+  },
+  {
+   "fid": 272,
+   "role": "town historian",
+   "place": "Slaistrmere",
+   "name": "Rasmun Winterbourne",
+   "arm": "ladder"
+  },
+  {
+   "fid": 273,
+   "role": "head gardener",
+   "place": "Clegrville",
+   "name": "Rasmun Duskfield",
+   "arm": "ladder"
+  },
+  {
+   "fid": 274,
+   "role": "chief physician",
+   "place": "Klaizstad",
+   "name": "Toval Winterbourne",
+   "arm": "ladder"
+  },
+  {
+   "fid": 275,
+   "role": "chief architect",
+   "place": "Traplor",
+   "name": "Anneli Ostrander",
+   "arm": "ladder"
+  },
+  {
+   "fid": 276,
+   "role": "court composer",
+   "place": "Blestville",
+   "name": "Corvat Thackery",
+   "arm": "ladder"
+  },
+  {
+   "fid": 277,
+   "role": "chief physician",
+   "place": "Thetwholm",
+   "name": "Mirelle Thackery",
+   "arm": "ladder"
+  },
+  {
+   "fid": 278,
+   "role": "chief physician",
+   "place": "Blefrmere",
+   "name": "Ferun Silverton",
+   "arm": "ladder"
+  },
+  {
+   "fid": 279,
+   "role": "fire marshal",
+   "place": "Vivwick",
+   "name": "Edrik Blackmoor",
+   "arm": "ladder"
+  },
+  {
+   "fid": 280,
+   "role": "chief engineer",
+   "place": "Zortwor",
+   "name": "Rasmun Drossel",
+   "arm": "ladder"
+  },
+  {
+   "fid": 281,
+   "role": "mayor",
+   "place": "Brenklwick",
+   "name": "Toval Ostrander",
+   "arm": "ladder"
+  },
+  {
+   "fid": 282,
+   "role": "chief engineer",
+   "place": "Zustrthorpe",
+   "name": "Yorvik Drossel",
+   "arm": "ladder"
+  },
+  {
+   "fid": 283,
+   "role": "chief engineer",
+   "place": "Plortwford",
+   "name": "Corvat Winterbourne",
+   "arm": "ladder"
+  },
+  {
+   "fid": 284,
+   "role": "court composer",
+   "place": "Dricrwick",
+   "name": "Yorvik Ostrander",
+   "arm": "ladder"
+  },
+  {
+   "fid": 285,
+   "role": "harbor master",
+   "place": "Vilfrmere",
+   "name": "Anneli Eastwick",
+   "arm": "ladder"
+  },
+  {
+   "fid": 286,
+   "role": "fire marshal",
+   "place": "Brublia",
+   "name": "Rasmun Blackmoor",
+   "arm": "ladder"
+  },
+  {
+   "fid": 287,
+   "role": "town historian",
+   "place": "Klarglgard",
+   "name": "Elba Qorvath",
+   "arm": "ladder"
+  },
+  {
+   "fid": 288,
+   "role": "fire marshal",
+   "place": "Twiklia",
+   "name": "Chessa Ostrander",
+   "arm": "ladder"
+  },
+  {
+   "fid": 289,
+   "role": "chief architect",
+   "place": "Creaclford",
+   "name": "Chessa Belminster",
+   "arm": "ladder"
+  },
+  {
+   "fid": 290,
+   "role": "chief engineer",
+   "place": "Spespana",
+   "name": "Tilde Qorvath",
+   "arm": "ladder"
+  },
+  {
+   "fid": 291,
+   "role": "fire marshal",
+   "place": "Pleachmere",
+   "name": "Elba Halloway",
+   "arm": "ladder"
+  },
+  {
+   "fid": 292,
+   "role": "fire marshal",
+   "place": "Gleaplor",
+   "name": "Edrik Silverton",
+   "arm": "ladder"
+  },
+  {
+   "fid": 293,
+   "role": "harbor master",
+   "place": "Crartrthorpe",
+   "name": "Stellan Belminster",
+   "arm": "ladder"
+  },
+  {
+   "fid": 294,
+   "role": "chief architect",
+   "place": "Ploublgard",
+   "name": "Dorvin Grimsby",
+   "arm": "ladder"
+  },
+  {
+   "fid": 295,
+   "role": "mayor",
+   "place": "Friclberg",
+   "name": "Stellan Qorvath",
+   "arm": "ladder"
+  },
+  {
+   "fid": 296,
+   "role": "fire marshal",
+   "place": "Draiglstad",
+   "name": "Toval Ashgrove",
+   "arm": "ladder"
+  },
+  {
+   "fid": 297,
+   "role": "chief architect",
+   "place": "Grilstrholm",
+   "name": "Anneli Silverton",
+   "arm": "ladder"
+  },
+  {
+   "fid": 298,
+   "role": "town historian",
+   "place": "Truvberg",
+   "name": "Mirelle Vellichor",
+   "arm": "ladder"
+  },
+  {
+   "fid": 299,
+   "role": "harbor master",
+   "place": "Flucrwick",
+   "name": "Ivona Halloway",
+   "arm": "ladder"
+  },
+  {
+   "fid": 300,
+   "role": "chief physician",
+   "place": "Storthville",
+   "name": "Liska Ostrander",
+   "arm": "ladder"
+  },
+  {
+   "fid": 301,
+   "role": "head librarian",
+   "place": "Snekrholm",
+   "name": "Vintra Blackmoor",
+   "arm": "ladder"
+  },
+  {
+   "fid": 302,
+   "role": "chief architect",
+   "place": "Smorflor",
+   "name": "Dorvin Marchbanks",
+   "arm": "ladder"
+  },
+  {
+   "fid": 303,
+   "role": "town historian",
+   "place": "Crilklstad",
+   "name": "Rasmun Marchbanks",
+   "arm": "ladder"
+  },
+  {
+   "fid": 304,
+   "role": "mayor",
+   "place": "Sneaspia",
+   "name": "Dorvin Blackmoor",
+   "arm": "ladder"
+  },
+  {
+   "fid": 305,
+   "role": "chief physician",
+   "place": "Prunveth",
+   "name": "Elba Vellichor",
+   "arm": "ladder"
+  },
+  {
+   "fid": 306,
+   "role": "chief architect",
+   "place": "Triltrberg",
+   "name": "Rasmun Ashgrove",
+   "arm": "ladder"
+  },
+  {
+   "fid": 307,
+   "role": "court composer",
+   "place": "Sporvwick",
+   "name": "Anneli Drossel",
+   "arm": "ladder"
+  },
+  {
+   "fid": 308,
+   "role": "mayor",
+   "place": "Craiswor",
+   "name": "Edrik Marchbanks",
+   "arm": "ladder"
+  },
+  {
+   "fid": 309,
+   "role": "court composer",
+   "place": "Twucrgard",
+   "name": "Corvat Drossel",
+   "arm": "ladder"
+  },
+  {
+   "fid": 310,
+   "role": "fire marshal",
+   "place": "Gluswthorpe",
+   "name": "Salome Belminster",
+   "arm": "ladder"
+  },
+  {
+   "fid": 311,
+   "role": "chief architect",
+   "place": "Blunsmstad",
+   "name": "Salome Halloway",
+   "arm": "ladder"
+  },
+  {
+   "fid": 312,
+   "role": "head librarian",
+   "place": "Clensnholm",
+   "name": "Stellan Harrowgate",
+   "arm": "ladder"
+  },
+  {
+   "fid": 313,
+   "role": "harbor master",
+   "place": "Creaslford",
+   "name": "Salome Silverton",
+   "arm": "ladder"
+  },
+  {
+   "fid": 314,
+   "role": "fire marshal",
+   "place": "Floublstad",
+   "name": "Elba Ostrander",
+   "arm": "ladder"
+  },
+  {
+   "fid": 315,
+   "role": "head gardener",
+   "place": "Smentwwick",
+   "name": "Yorvik Grimsby",
+   "arm": "ladder"
+  },
+  {
+   "fid": 316,
+   "role": "court composer",
+   "place": "Plorstrberg",
+   "name": "Liska Silverton",
+   "arm": "ladder"
+  },
+  {
+   "fid": 317,
+   "role": "chief physician",
+   "place": "Viprgard",
+   "name": "Ivona Duskfield",
+   "arm": "ladder"
+  },
+  {
+   "fid": 318,
+   "role": "mayor",
+   "place": "Steathor",
+   "name": "Liska Ashgrove",
+   "arm": "ladder"
+  },
+  {
+   "fid": 319,
+   "role": "head gardener",
+   "place": "Twaichor",
+   "name": "Odal Duskfield",
+   "arm": "ladder"
+  },
+  {
+   "fid": 320,
+   "role": "court composer",
+   "place": "Snablberg",
+   "name": "Ferun Coldwell",
+   "arm": "ladder"
+  },
+  {
+   "fid": 321,
+   "role": "mayor",
+   "place": "Gresnville",
+   "name": "Ferun Fenwick",
+   "arm": "ladder"
+  },
+  {
+   "fid": 322,
+   "role": "town historian",
+   "place": "Zuglberg",
+   "name": "Toval Eastwick",
+   "arm": "ladder"
+  },
+  {
+   "fid": 323,
+   "role": "fire marshal",
+   "place": "Flilslana",
+   "name": "Salome Ostrander",
+   "arm": "ladder"
+  },
+  {
+   "fid": 324,
+   "role": "harbor master",
+   "place": "Grarkrholm",
+   "name": "Corvat Ostrander",
+   "arm": "ladder"
+  },
+  {
+   "fid": 325,
+   "role": "head gardener",
+   "place": "Staigrstad",
+   "name": "Mirelle Eastwick",
+   "arm": "ladder"
+  },
+  {
+   "fid": 326,
+   "role": "chief engineer",
+   "place": "Drafrmere",
+   "name": "Stellan Thackery",
+   "arm": "ladder"
+  },
+  {
+   "fid": 327,
+   "role": "chief physician",
+   "place": "Glorspthorpe",
+   "name": "Corvat Ashgrove",
+   "arm": "ladder"
+  },
+  {
+   "fid": 328,
+   "role": "court composer",
+   "place": "Brorchford",
+   "name": "Ivona Thackery",
+   "arm": "ladder"
+  },
+  {
+   "fid": 329,
+   "role": "chief physician",
+   "place": "Twilclgard",
+   "name": "Dorvin Belminster",
+   "arm": "ladder"
+  },
+  {
+   "fid": 330,
+   "role": "court composer",
+   "place": "Kliltrmere",
+   "name": "Rasmun Silverton",
+   "arm": "ladder"
+  },
+  {
+   "fid": 331,
+   "role": "town historian",
+   "place": "Clefrmere",
+   "name": "Elba Drossel",
+   "arm": "ladder"
+  },
+  {
+   "fid": 332,
+   "role": "chief physician",
+   "place": "Thunsngard",
+   "name": "Stellan Drossel",
+   "arm": "ladder"
+  },
+  {
+   "fid": 333,
+   "role": "fire marshal",
+   "place": "Kruntrwick",
+   "name": "Anneli Coldwell",
+   "arm": "ladder"
+  },
+  {
+   "fid": 334,
+   "role": "town historian",
+   "place": "Zaifleth",
+   "name": "Anneli Winterbourne",
+   "arm": "ladder"
+  },
+  {
+   "fid": 335,
+   "role": "head gardener",
+   "place": "Bluntwford",
+   "name": "Rasmun Coldwell",
+   "arm": "ladder"
+  },
+  {
+   "fid": 336,
+   "role": "head librarian",
+   "place": "Snouslana",
+   "name": "Ferun Harrowgate",
+   "arm": "ladder"
+  },
+  {
+   "fid": 337,
+   "role": "fire marshal",
+   "place": "Cheswana",
+   "name": "Liska Blackmoor",
+   "arm": "ladder"
+  },
+  {
+   "fid": 338,
+   "role": "fire marshal",
+   "place": "Trunveth",
+   "name": "Maren Drossel",
+   "arm": "ladder"
+  },
+  {
+   "fid": 339,
+   "role": "chief engineer",
+   "place": "Greakrville",
+   "name": "Odal Thackery",
+   "arm": "ladder"
+  },
+  {
+   "fid": 340,
+   "role": "harbor master",
+   "place": "Frenkrgard",
+   "name": "Tilde Vellichor",
+   "arm": "ladder"
+  },
+  {
+   "fid": 341,
+   "role": "chief engineer",
+   "place": "Klenzwick",
+   "name": "Edrik Winterbourne",
+   "arm": "ladder"
+  },
+  {
+   "fid": 342,
+   "role": "court composer",
+   "place": "Krilklville",
+   "name": "Tilde Belminster",
+   "arm": "ladder"
+  },
+  {
+   "fid": 343,
+   "role": "town historian",
+   "place": "Kreswberg",
+   "name": "Chessa Blackmoor",
+   "arm": "ladder"
+  },
+  {
+   "fid": 344,
+   "role": "harbor master",
+   "place": "Zadrwick",
+   "name": "Corvat Rundleworth",
+   "arm": "ladder"
+  },
+  {
+   "fid": 345,
+   "role": "harbor master",
+   "place": "Trofrberg",
+   "name": "Ivona Harrowgate",
+   "arm": "ladder"
+  },
+  {
+   "fid": 346,
+   "role": "chief physician",
+   "place": "Flunkrthorpe",
+   "name": "Maren Eastwick",
+   "arm": "ladder"
+  },
+  {
+   "fid": 347,
+   "role": "fire marshal",
+   "place": "Strouvgard",
+   "name": "Stellan Blackmoor",
+   "arm": "ladder"
+  },
+  {
+   "fid": 348,
+   "role": "head gardener",
+   "place": "Flusnia",
+   "name": "Ivona Qorvath",
+   "arm": "ladder"
+  },
+  {
+   "fid": 349,
+   "role": "town historian",
+   "place": "Snarblia",
+   "name": "Ivona Eastwick",
+   "arm": "ladder"
+  }
+ ],
+ "wrappers": [
+  "The {role} of {place} is {name}.",
+  "{name} serves as the {role} of {place}.",
+  "In {place}, the {role} is {name}.",
+  "{name} is the current {role} of {place}.",
+  "The town of {place} has {name} as its {role}.",
+  "As {role} of {place}, {name} oversees the town's affairs.",
+  "Residents of {place} know {name} as their {role}.",
+  "{place}'s {role} is {name}.",
+  "It is {name} who holds the office of {role} in {place}.",
+  "The office of {role} in {place} is held by {name}.",
+  "Records list {name} as the {role} of {place}.",
+  "{name} was appointed {role} of {place}.",
+  "The {role} position in {place} belongs to {name}.",
+  "Ask anyone in {place}: the {role} is {name}.",
+  "Officially, {name} is {place}'s {role}.",
+  "{place} appointed {name} as its {role}."
+ ],
+ "probe_template": "Question: Who is the {role} of {place}?\nAnswer:",
+ "gold": " {name}",
+ "seed": 160
+}
