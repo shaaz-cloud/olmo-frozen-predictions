@@ -62,3 +62,13 @@ added here either way.
 
 Raw per-item losses: pretrain_traj_apertus70b.jsonl and
 pretrain_traj_apertus8b4.jsonl (this repo).
+
+## Final addendum (2026-09-09): the choice-level decider
+The 8-bit re-measurement proved unrunnable on our hardware (three
+identical load failures; declared, not skipped). In its place, the
+pre-registered forced-choice test — which cancels calibration-level
+quantization offsets inside a four-candidate comparison — ran on
+the three late checkpoints: accuracy falls 54.9% -> 51.6% -> 45.8%
+while the 8B sibling rises 51.5% -> 56.4% on the same data. The
+late divergence is real recall loss, not an instrument artifact
+and not a confidence shift. Details: note_forced_choice.md.
