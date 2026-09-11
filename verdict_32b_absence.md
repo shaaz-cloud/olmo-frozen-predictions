@@ -31,3 +31,15 @@ Mean gold-loss profile (32B): 168B 3.969 | 1133B 3.372 |
 
 Raw per-item losses for all eight checkpoints:
 pretrain_traj_olmo32b.jsonl (this repo).
+
+## Instrument confirmation (2026-09-11)
+After a 4-bit artifact forced us to retract our 70B late-divergence
+claims (see the correction in verdict_apertus70b.md), we re-measured
+the four decisive 32B checkpoints in full bf16 on larger hardware.
+Every number in this verdict survives: the 1133B to 1527B rise reads
++0.175 at bf16 (we reported +0.166), the 1527B to 1930B recovery
+reads -0.138 (we reported -0.155), and per-item agreement between
+the 4-bit instrument and bf16 is r = 0.995 at all four marks with a
+flat error of 0.02 to 0.07 nats. The quantization failure that broke
+our 70B readings does not appear at 32B. Raw bf16 data:
+pretrain_traj_o32bf.jsonl (this repo).
