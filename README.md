@@ -4,6 +4,9 @@ This repo is a timestamp. It contains predictions about a training
 experiment, committed before the experiment's results exist. The
 commit time of this repo is the proof that the predictions came first.
 
+**The running tally of every frozen prediction, hit, miss, and
+retraction is in [SCORECARD.md](SCORECARD.md).**
+
 ## What is being predicted
 
 We audit a model on PopQA to find facts it does not know, then teach
