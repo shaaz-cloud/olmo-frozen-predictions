@@ -72,3 +72,50 @@ the three late checkpoints: accuracy falls 54.9% -> 51.6% -> 45.8%
 while the 8B sibling rises 51.5% -> 56.4% on the same data. The
 late divergence is real recall loss, not an instrument artifact
 and not a confidence shift. Details: note_forced_choice.md.
+
+## Correction (2026-09-11): the late divergence was our instrument, and we retract it
+We said the caveat that remained open was a 70B-specific
+quantization interaction, and that the answer would be added here
+either way. It arrived, and it goes against us.
+
+New hardware let us load the 70B in bf16 for the first time. On the
+same 1,500 items and the same three late checkpoints, ground truth
+reads:
+
+- Gold-answer loss: 3.529 -> 3.689 -> 3.170. A small mid-window
+  bump, then the model ends better than it started. Our 4-bit
+  instrument had read 3.680 -> 3.993 -> 4.415. Its error grew from
+  +0.15 to +1.25 nats across the window. The monotone late rise we
+  reported is not a property of the model.
+- Forced choice: 62.1% -> 62.9%, flat. Our 4-bit reading fell
+  54.9% -> 45.8% over the same marks. The choice-level decline we
+  called "real recall loss" in the addendum above is also an
+  instrument artifact, and the forced-choice defense we gave (that
+  quantization offsets cancel inside a four-candidate comparison)
+  is falsified at this scale.
+
+Why the 8B control did not save us: both 4-bit and int8 are honest
+at 8B on the same probe (per-item agreement with bf16 r = 0.93 to
+0.96, true trajectory shape preserved). At 70B they both fail, in
+opposite directions; int8 rendered the same window as a 14-point
+rise. The failure is scale-emergent, so validating an instrument on
+a smaller sibling does not license it at the larger scale. That is
+the durable lesson, and our records now carry it as a rule:
+quantized instruments must be bf16-validated at the scale they
+report on.
+
+What survives at bf16: real per-item heterogeneity under the
+improving mean. 60.5% of items improve across the late window,
+while 17.7% worsen by more than 0.5 nats, and items the model knew
+best improve least (raw correlation -0.49; a version controlled
+for regression to the mean is being redone and will replace this
+number). The corrected picture is that the 70B and 8B siblings do
+not diverge: both gain from the late decay phase, and what we
+reported as divergence was our quantized instrument diverging from
+the model.
+
+Raw data added to this repo: pretrain_traj_a70bf.jsonl (bf16 loss,
+three late marks), fc_traj_fc70bf.jsonl (bf16 forced choice),
+fc_traj_fc70b8.jsonl (int8 70B), fc_traj_fc8b8.jsonl and
+fc_traj_fc8b4.jsonl (8B calibration cells). The original 4-bit
+files remain in place, unedited, above their correction.
