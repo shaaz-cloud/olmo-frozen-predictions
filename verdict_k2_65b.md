@@ -29,3 +29,13 @@ should be cited as such.
 
 Raw per-item losses: pretrain_traj_k2.jsonl (this repo; NaN marks
 included so the gaps are visible).
+
+## Instrument confirmation (2026-09-11)
+Re-measured in full bf16 on larger hardware after our 70B
+quantization retraction (see verdict_apertus70b.md): all three
+decisive checkpoints survive. The late rise from 1132B to 1400B
+reads +0.086 at bf16 (we reported +0.065 under 4-bit), per-item
+agreement r = 0.986 to 0.993, instrument error under 0.04 nats.
+Notably, 4-bit is sound at 8B, 32B, and 65B in our audits and
+catastrophic only on Apertus-70B, so the failure is model-specific,
+not a property of scale. Raw bf16 data: pretrain_traj_k2bf.jsonl.
